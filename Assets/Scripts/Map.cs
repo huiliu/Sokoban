@@ -2,12 +2,15 @@
 
 public class Map
 {
+
     private List<List<Cell>> Cells = new List<List<Cell>>();
     public int Width;
     public int Height;
-    public Map(string name)
-    {
+    public Map() { }
 
+    public void SetData(List<List<Cell>> data)
+    {
+        this.Cells = data;
     }
 
     public Cell GetCell(Point p)
@@ -25,4 +28,7 @@ public class Map
 
         return Cells[r][c];
     }
+
+    public bool Finished { get; private set; }
+    public Pusher Pusher { get; private set; }
 }

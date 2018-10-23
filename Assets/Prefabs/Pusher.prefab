@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 4131208516503254}
   - component: {fileID: 95691763228245840}
   - component: {fileID: 212355245021456858}
+  - component: {fileID: 114865267271477794}
   m_Layer: 0
   m_Name: Pusher
   m_TagString: Untagged
@@ -59,6 +60,21 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114865267271477794
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1675518078218132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34ec7199889b4dd4299db75c2f2c2c8a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  upSprite: {fileID: 21300000, guid: 5948229ad793bcf4da0097871b07dafa, type: 3}
+  downSprite: {fileID: 21300000, guid: 311cc622327059b4a85ef617c1876ef8, type: 3}
+  leftSprite: {fileID: 21300000, guid: 38eee5d7a5d7a334ba3f867ea734206c, type: 3}
+  rightSprite: {fileID: 21300000, guid: 0a8c4410dd8eb0641bf5c0dfab2816fa, type: 3}
 --- !u!212 &212355245021456858
 SpriteRenderer:
   m_ObjectHideFlags: 1

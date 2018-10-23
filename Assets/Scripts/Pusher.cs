@@ -9,21 +9,59 @@
 
     public override bool MoveDown()
     {
-        throw new System.NotImplementedException();
+        var downCell = this.Cell.GetDownCell();
+        if (downCell == null)
+            return false;
+
+        if (downCell.Entity != null && !downCell.Entity.MoveDown())
+            return false;
+
+        return this.MoveTo(downCell);
     }
 
     public override bool MoveLeft()
     {
-        throw new System.NotImplementedException();
+        var c = this.Cell.GetLeftCell();
+        if (c == null)
+            return false;
+
+        if (c.Entity != null && !c.Entity.MoveLeft())
+            return false;
+
+        return this.MoveTo(c);
     }
 
     public override bool MoveRight()
     {
-        throw new System.NotImplementedException();
+        var c = this.Cell.GetRightCell();
+        if (c == null)
+            return false;
+
+        if (c.Entity != null && !c.Entity.MoveRight())
+            return false;
+
+        return this.MoveTo(c);
     }
 
     public override bool MoveUp()
     {
-        throw new System.NotImplementedException();
+        var c = this.Cell.GetUpCell();
+        if (c == null)
+            return false;
+
+        if (c.Entity != null && !c.Entity.MoveUp())
+            return false;
+
+        return this.MoveTo(c);
+    }
+
+    private bool MoveTo(Cell c)
+    {
+
+        this.Cell.ResetEntity();
+        this.Cell = c;
+        this.Cell.SetEntity(this);
+
+        return true;
     }
 }

@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 public enum CellType
 {
@@ -11,8 +8,14 @@ public enum CellType
 
 public struct Point
 {
-    public int row;
-    public int col;
+    public int row { get; private set; }
+    public int col { get; private set; }
+
+    public Point(int r, int c)
+    {
+        this.row = r;
+        this.col = c;
+    }
 }
 
 public class Cell
@@ -35,10 +38,12 @@ public class Cell
         return false;
     }
 
+    public bool Arrived { get; private set; }
     public Entity Entity { get; private set; }
     public void SetEntity(Entity e)
     {
         this.Entity = e;
+        this.Arrived = this.Type == CellType.Goal && this.Entity.Type == EntityType.Box;
     }
 
     public void ResetEntity()
