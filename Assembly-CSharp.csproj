@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\Components\Bootstrap.cs" />
     <Compile Include="Assets\Scripts\Components\Game.cs" />
     <Compile Include="Assets\Scripts\Components\InputMgr.cs" />
+    <Compile Include="Assets\Scripts\Components\LogComponent.cs" />
     <Compile Include="Assets\Scripts\Components\PusherComponent.cs" />
     <Compile Include="Assets\Scripts\Entity.cs" />
     <Compile Include="Assets\Scripts\Log\FileOutput.cs" />
