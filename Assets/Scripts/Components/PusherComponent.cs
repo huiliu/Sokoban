@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
+using Logic;
 
 public enum Direction
 {
@@ -10,7 +10,7 @@ public enum Direction
 }
 
 public class PusherComponent
-    : MonoBehaviour
+    : SmoothMove
 {
     [SerializeField] private Sprite upSprite;
     [SerializeField] private Sprite downSprite;
@@ -23,6 +23,12 @@ public class PusherComponent
     {
         this.Animator = GetComponent<Animator>();
         this.SpriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
+    private Pusher Pusher;
+    public void Setup(Pusher pusher)
+    {
+        this.Pusher = pusher;
     }
 
     public Direction FaceDirection { get; private set; }

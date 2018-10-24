@@ -61,14 +61,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Box.cs" />
-    <Compile Include="Assets\Scripts\Cell.cs" />
     <Compile Include="Assets\Scripts\Components\Bootstrap.cs" />
+    <Compile Include="Assets\Scripts\Components\BoxComponent.cs" />
+    <Compile Include="Assets\Scripts\Components\CellComponent.cs" />
     <Compile Include="Assets\Scripts\Components\Game.cs" />
     <Compile Include="Assets\Scripts\Components\InputMgr.cs" />
     <Compile Include="Assets\Scripts\Components\LogComponent.cs" />
+    <Compile Include="Assets\Scripts\Components\MapComponent.cs" />
     <Compile Include="Assets\Scripts\Components\PusherComponent.cs" />
-    <Compile Include="Assets\Scripts\Entity.cs" />
+    <Compile Include="Assets\Scripts\Components\SmoothMove.cs" />
+    <Compile Include="Assets\Scripts\Components\WallComponent.cs" />
     <Compile Include="Assets\Scripts\Log\FileOutput.cs" />
     <Compile Include="Assets\Scripts\Log\GMOutput.cs" />
     <Compile Include="Assets\Scripts\Log\ILogIntegration.cs" />
@@ -77,12 +79,16 @@
     <Compile Include="Assets\Scripts\Log\LogLevel.cs" />
     <Compile Include="Assets\Scripts\Log\UnityLogIntegration.cs" />
     <Compile Include="Assets\Scripts\Log\UnityOutput.cs" />
-    <Compile Include="Assets\Scripts\Map.cs" />
-    <Compile Include="Assets\Scripts\MapMgr.cs" />
+    <Compile Include="Assets\Scripts\Logic\Box.cs" />
+    <Compile Include="Assets\Scripts\Logic\Cell.cs" />
+    <Compile Include="Assets\Scripts\Logic\Entity.cs" />
+    <Compile Include="Assets\Scripts\Logic\Map.cs" />
+    <Compile Include="Assets\Scripts\Logic\MapMgr.cs" />
+    <Compile Include="Assets\Scripts\Logic\Pusher.cs" />
+    <Compile Include="Assets\Scripts\Logic\Utils.cs" />
+    <Compile Include="Assets\Scripts\Logic\Wall.cs" />
     <Compile Include="Assets\Scripts\PathTester.cs" />
-    <Compile Include="Assets\Scripts\Pusher.cs" />
-    <Compile Include="Assets\Scripts\Utils.cs" />
-    <Compile Include="Assets\Scripts\Wall.cs" />
+    <Compile Include="Assets\Scripts\Utils\UnityUtils.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/liuhui/Sokoban/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

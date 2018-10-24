@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using Logic;
 
 public class PathTester
     : MonoBehaviour
