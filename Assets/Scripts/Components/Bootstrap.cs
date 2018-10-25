@@ -6,10 +6,9 @@ using Logic;
 public class Bootstrap
     : MonoBehaviour
 {
-    [SerializeField]
-    private Button startGame;
-    [SerializeField]
-    private Text MapText;
+    [SerializeField] private Button startGame;
+    [SerializeField] private Text MapText;
+    [SerializeField] private MapComponent MapComponent;
 
     protected void Start()
     {
@@ -31,6 +30,8 @@ public class Bootstrap
 
         this.InputMgr = this.gameObject.GetOrAddComponent<InputMgr>();
         this.IsRunning = true;
+
+        this.MapComponent.SetupMap(this.CurrentMap);
     }
 
     protected void Update()

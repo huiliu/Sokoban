@@ -64,13 +64,18 @@
     <Compile Include="Assets\Scripts\Components\Bootstrap.cs" />
     <Compile Include="Assets\Scripts\Components\BoxComponent.cs" />
     <Compile Include="Assets\Scripts\Components\CellComponent.cs" />
+    <Compile Include="Assets\Scripts\Components\Empty4Raycast.cs" />
+    <Compile Include="Assets\Scripts\Components\EntityComponent.cs" />
     <Compile Include="Assets\Scripts\Components\Game.cs" />
-    <Compile Include="Assets\Scripts\Components\InputMgr.cs" />
     <Compile Include="Assets\Scripts\Components\LogComponent.cs" />
     <Compile Include="Assets\Scripts\Components\MapComponent.cs" />
     <Compile Include="Assets\Scripts\Components\PusherComponent.cs" />
     <Compile Include="Assets\Scripts\Components\SmoothMove.cs" />
     <Compile Include="Assets\Scripts\Components\WallComponent.cs" />
+    <Compile Include="Assets\Scripts\InputComponent\IInput.cs" />
+    <Compile Include="Assets\Scripts\InputComponent\InputMgr.cs" />
+    <Compile Include="Assets\Scripts\InputComponent\Joystick.cs" />
+    <Compile Include="Assets\Scripts\InputComponent\JoystickInput.cs" />
     <Compile Include="Assets\Scripts\Log\FileOutput.cs" />
     <Compile Include="Assets\Scripts\Log\GMOutput.cs" />
     <Compile Include="Assets\Scripts\Log\ILogIntegration.cs" />
@@ -88,6 +93,8 @@
     <Compile Include="Assets\Scripts\Logic\Utils.cs" />
     <Compile Include="Assets\Scripts\Logic\Wall.cs" />
     <Compile Include="Assets\Scripts\PathTester.cs" />
+    <Compile Include="Assets\Scripts\Utils\Common.cs" />
+    <Compile Include="Assets\Scripts\Utils\GameUtil.cs" />
     <Compile Include="Assets\Scripts\Utils\UnityUtils.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/liuhui/Sokoban/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>

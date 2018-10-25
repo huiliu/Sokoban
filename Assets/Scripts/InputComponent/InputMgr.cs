@@ -12,6 +12,12 @@ public class InputMgr
     public bool Left    { get; private set; }
     public bool Right   { get; private set; }
 
+    private JoystickInput JoystickInput;
+    public void BindVirtualJoystick(JoystickInput input)
+    {
+        this.JoystickInput = input;
+    }
+
     protected void Update()
     {
         this.Up = Input.GetKeyDown(KeyCode.W);
