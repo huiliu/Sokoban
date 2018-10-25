@@ -29,7 +29,7 @@ namespace Logic
             this.Map = map;
             this.Type = t;
             this.Position = p;
-            this.Arrived = true;
+            this.Arrived = this.Type == CellType.Floor;
         }
 
         public bool CanEnter(Entity e)
@@ -51,6 +51,7 @@ namespace Logic
         public void ResetEntity()
         {
             this.Entity = null;
+            this.Arrived = this.Type == CellType.Floor;
         }
 
         public Cell GetDownCell()

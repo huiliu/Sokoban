@@ -7,6 +7,7 @@ public class SmoothMove
     protected float moveTime = 0.5f;
     public void MoveTo(Vector3 dst)
     {
+        //Base.Log.Info("Move", "{0} -> {1}", this.transform.position.z, dst.z);
         this.StartCoroutine(this.DoSmoothMove(dst));
     }
 
@@ -18,7 +19,6 @@ public class SmoothMove
         while (remainingDistance > float.Epsilon)
         {
             time += Time.deltaTime;
-            //transform.position = Vector3.MoveTowards(transform.position, dst, (1 / moveTime) * Time.deltaTime);
             transform.position = Vector3.Lerp(this.transform.position, dst, time / moveTime);
             remainingDistance = (transform.position - dst).sqrMagnitude;
             yield return null;

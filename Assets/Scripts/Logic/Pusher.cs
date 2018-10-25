@@ -64,6 +64,8 @@
             this.Cell = c;
             this.Cell.SetEntity(this);
 
+            this.Cell.Map.CheckWin();
+
             return true;
         }
     }

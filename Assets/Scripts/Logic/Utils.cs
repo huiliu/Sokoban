@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using Base;
 
@@ -124,6 +125,21 @@ namespace Logic
                 cell.SetEntity(block);
 
             return cell;
+        }
+
+        public static void SafeInvoke(this Action action)
+        {
+            if (action == null)
+                return;
+
+            try
+            {
+                action.Invoke();
+            }
+            catch(Exception err)
+            {
+                Log.Exception(err);
+            }
         }
     }
 }

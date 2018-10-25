@@ -4,12 +4,12 @@ using UnityEngine;
 public static class GameUtil
 {
     public static float MapLayerZ = 0f;
-    public static float EntityLayerZ = -0.001f;
+    public static float EntityLayerZ = -0.1f;
 
     public static Vector3 ToGamePosition(this Point cellPos)
     {
         var v = Vector3.zero;
-        v.x = -5 + cellPos.col;
+        v.x = -3.5f + cellPos.col;
         v.y = - cellPos.row;
         return v;
     }

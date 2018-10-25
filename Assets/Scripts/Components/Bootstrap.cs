@@ -32,6 +32,10 @@ public class Bootstrap
         this.IsRunning = true;
 
         this.MapComponent.SetupMap(this.CurrentMap);
+        this.CurrentMap.OnWin = () =>
+        {
+            Log.Info("Game", "You Win!");
+        };
     }
 
     protected void Update()
