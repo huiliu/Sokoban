@@ -46,7 +46,7 @@ public class MapComponent
             go = Instantiate(this.Floor);
 
         go.transform.position = c.Position.ToMapLayerPosition();
-        go.transform.parent = this.MapNode.transform;
+        go.transform.SetParent(this.MapNode.transform);
     }
 
     private void InitEntity(Cell c)
@@ -75,6 +75,6 @@ public class MapComponent
         }
 
         go.transform.position = c.Position.ToEntityLayerPosition();
-        go.transform.parent = this.EntityNode.transform;
+        go.transform.SetParent(this.EntityNode.transform);
     }
 }
