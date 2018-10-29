@@ -10,15 +10,21 @@ public class Bootstrap
     [SerializeField] private Text MapText;
     [SerializeField] private MapComponent MapComponent;
 
+    public static Bootstrap Instance { get; private set; }
+    private void Awake()
+    {
+        Instance = this; 
+    }
+
     private Pusher Pusher;
     private Map CurrentMap;
     private bool IsRunning;
-    public void StartGame()
+    public void StartGame(int levelID = 0)
     {
         Log.Info("Game", "Start Game!\nMap Loading...");
 
         MapMgr.Instance.LoadMap("00.sok");
-        this.CurrentMap = MapMgr.Instance.CurrentMap;
+        this.CurrentMap = MapMgr.Instance.GetLevelMap(levelID);
         this.MapText.text = this.CurrentMap.ToString();
         this.Pusher = MapMgr.Instance.CurrentMap.Pusher;
 
