@@ -10,12 +10,6 @@ public class Bootstrap
     [SerializeField] private Text MapText;
     [SerializeField] private MapComponent MapComponent;
 
-    protected void Start()
-    {
-        
-    }
-
-    private InputMgr InputMgr;
     private Pusher Pusher;
     private Map CurrentMap;
     private bool IsRunning;
@@ -28,14 +22,9 @@ public class Bootstrap
         this.MapText.text = this.CurrentMap.ToString();
         this.Pusher = MapMgr.Instance.CurrentMap.Pusher;
 
-        this.InputMgr = this.gameObject.GetOrAddComponent<InputMgr>();
         this.IsRunning = true;
 
         this.MapComponent.SetupMap(this.CurrentMap);
-        this.CurrentMap.OnWin = () =>
-        {
-            Log.Info("Game", "You Win!");
-        };
     }
 
     protected void Update()
@@ -46,23 +35,23 @@ public class Bootstrap
 
     private void DoMove()
     {
-        if (this.InputMgr.Up)
+        if (InputMgr.Instance.Up)
         {
             var r = this.Pusher.MoveUp();
             this.MapText.text = this.CurrentMap.ToString();
         }
-        else if (this.InputMgr.Down)
+        else if (InputMgr.Instance.Down)
         {
             var r = this.Pusher.MoveDown();
             this.MapText.text = this.CurrentMap.ToString();
             var finished = this.CurrentMap.Finished;
         }
-        else if (this.InputMgr.Left)
+        else if (InputMgr.Instance.Left)
         {
             var r = this.Pusher.MoveLeft();
             this.MapText.text = this.CurrentMap.ToString();
         }
-        else if (this.InputMgr.Right)
+        else if (InputMgr.Instance.Right)
         {
             var r = this.Pusher.MoveRight();
             this.MapText.text = this.CurrentMap.ToString();

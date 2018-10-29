@@ -1,10 +1,13 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using UnityEngine;
 using Logic;
 
 public class PusherComponent
     : SmoothMove
 {
+    public Action<int> OnWin;
+
     [SerializeField] private Sprite upSprite;
     [SerializeField] private Sprite downSprite;
     [SerializeField] private Sprite leftSprite;
@@ -19,6 +22,7 @@ public class PusherComponent
     }
 
     private Pusher Pusher;
+    private Map CurrentMap { get { return this.Pusher.Cell.Map; } }
     public void Setup(Pusher pusher)
     {
         this.Pusher = pusher;
@@ -108,10 +112,17 @@ public class PusherComponent
         base.MoveEnded();
 
         this.MoveFlag = false;
-        //this.Animator.SetTrigger("IDLE");
-
         Base.Log.Info("Game", "Pusher Move End!");
-        StartCoroutine(this.SetFaceSprite(this.FaceDirection));
-        //this.SetFaceSprite(this.FaceDirection);
+        //StartCoroutine(this.SetFaceSprite(this.FaceDirection));
+
+        this.TryWin();
+    }
+
+    private void TryWin()
+    {
+        if (this.CurrentMap.Finished)
+        {
+            this.OnWin.SafeInvoke(this.CurrentMap.MoveCount);
+        }
     }
 }

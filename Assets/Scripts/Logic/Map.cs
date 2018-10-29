@@ -63,6 +63,7 @@ namespace Logic
             return Cells[r][c];
         }
 
+        public int MoveCount;
         public bool Finished
         {
             get

@@ -1,28 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using UnityEngine;
-
+﻿
 public class InputMgr
-    : MonoBehaviour
 {
-    public bool Up      { get; private set; }
-    public bool Down    { get; private set; }
-    public bool Left    { get; private set; }
-    public bool Right   { get; private set; }
+    public bool Up      { get { return this.Keyboard.Up || this.JoystickInput.Up; } }
+    public bool Right   { get { return this.Keyboard.Right || this.JoystickInput.Right; } }
+    public bool Down    { get { return this.Keyboard.Down || this.JoystickInput.Down; } }
+    public bool Left    { get { return this.Keyboard.Left || this.JoystickInput.Left; } }
 
-    private JoystickInput JoystickInput;
+    private static InputMgr instance = new InputMgr();
+    public static InputMgr Instance { get { return instance; } }
+
+    private IInput JoystickInput;
     public void BindVirtualJoystick(JoystickInput input)
     {
         this.JoystickInput = input;
     }
 
-    protected void Update()
+    private IInput Keyboard;
+    public void BindKeyboard(IInput keyboard)
     {
-        this.Up = Input.GetKeyDown(KeyCode.W);
-        this.Down = Input.GetKeyDown(KeyCode.S);
-        this.Left = Input.GetKeyDown(KeyCode.A);
-        this.Right = Input.GetKeyDown(KeyCode.D);
+        this.Keyboard = keyboard;
     }
 }

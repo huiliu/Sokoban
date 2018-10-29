@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using Logic;
 
 public class MapComponent
@@ -15,8 +16,7 @@ public class MapComponent
     [SerializeField] private GameObject Pusher;
     [SerializeField] private GameObject PusherOnGoal;
 
-    public int TileWidth = 32;
-    public int TileHeigh = 32;
+    public event Action<int> OnWin;
 
     public void SetupMap(Map Map)
     {
@@ -71,10 +71,18 @@ public class MapComponent
                 ? Instantiate(this.Pusher)
                 : Instantiate(this.PusherOnGoal);
 
-            go.GetComponent<PusherComponent>().Setup(e as Pusher);
+            var pc = go.GetComponent<PusherComponent>();
+            pc.Setup(e as Pusher);
+            pc.OnWin = this.HandleOnWin;
         }
 
         go.transform.position = c.Position.ToEntityLayerPosition();
         go.transform.SetParent(this.EntityNode.transform);
+    }
+
+    private void HandleOnWin(int c)
+    {
+        this.OnWin.SafeInvoke(c);
+        Base.Log.Info("Game", "You Win!");
     }
 }

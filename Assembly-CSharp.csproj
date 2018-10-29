@@ -65,7 +65,6 @@
     <Compile Include="Assets\Scripts\Components\BoxComponent.cs" />
     <Compile Include="Assets\Scripts\Components\CellComponent.cs" />
     <Compile Include="Assets\Scripts\Components\Empty4Raycast.cs" />
-    <Compile Include="Assets\Scripts\Components\EntityComponent.cs" />
     <Compile Include="Assets\Scripts\Components\Game.cs" />
     <Compile Include="Assets\Scripts\Components\LogComponent.cs" />
     <Compile Include="Assets\Scripts\Components\MapComponent.cs" />
@@ -76,6 +75,7 @@
     <Compile Include="Assets\Scripts\InputComponent\InputMgr.cs" />
     <Compile Include="Assets\Scripts\InputComponent\Joystick.cs" />
     <Compile Include="Assets\Scripts\InputComponent\JoystickInput.cs" />
+    <Compile Include="Assets\Scripts\InputComponent\KeyboardInput.cs" />
     <Compile Include="Assets\Scripts\Log\FileOutput.cs" />
     <Compile Include="Assets\Scripts\Log\GMOutput.cs" />
     <Compile Include="Assets\Scripts\Log\ILogIntegration.cs" />
