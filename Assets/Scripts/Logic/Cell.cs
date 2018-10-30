@@ -21,10 +21,10 @@ namespace Logic
 
     public class Cell
     {
-        public Map Map { get; private set; }
+        public LevelMap Map { get; private set; }
         public CellType Type { get; private set; }
         public Point Position { get; private set; }
-        public Cell(Map map, CellType t, Point p)
+        public Cell(LevelMap map, CellType t, Point p)
         {
             this.Map = map;
             this.Type = t;

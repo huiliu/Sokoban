@@ -9,6 +9,8 @@ public class Bootstrap
     [SerializeField] private Button startGame;
     [SerializeField] private Text MapText;
     [SerializeField] private MapComponent MapComponent;
+    [SerializeField] private GameObject MapGameObject;
+    [SerializeField] private GameObject ControlGameObject;
 
     public static Bootstrap Instance { get; private set; }
     private void Awake()
@@ -17,7 +19,7 @@ public class Bootstrap
     }
 
     private Pusher Pusher;
-    private Map CurrentMap;
+    private LevelMap CurrentMap;
     private bool IsRunning;
     public void StartGame(int levelID = 0)
     {
@@ -31,6 +33,15 @@ public class Bootstrap
         this.IsRunning = true;
 
         this.MapComponent.SetupMap(this.CurrentMap);
+
+        this.MapGameObject.SetActive(false);
+        this.ControlGameObject.SetActive(true);
+    }
+
+    public void GameOver()
+    {
+        this.MapGameObject.SetActive(true);
+        this.ControlGameObject.SetActive(false);
     }
 
     protected void Update()

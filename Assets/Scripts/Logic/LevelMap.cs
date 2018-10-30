@@ -3,12 +3,12 @@ using System.Collections.Generic;
 
 namespace Logic
 {
-    public class Map
+    public class LevelMap
     {
         private List<List<Cell>> Cells = new List<List<Cell>>();
         public int Width { get; private set; }
         public int Height { get; private set; }
-        public Map() { }
+        public LevelMap() { }
 
         public void SetData(List<List<Cell>> data)
         {

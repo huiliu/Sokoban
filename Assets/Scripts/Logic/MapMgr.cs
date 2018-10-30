@@ -7,7 +7,7 @@ namespace Logic
         public static MapMgr Instance { get { return instance; } }
         private MapMgr() { }
 
-        Dictionary<string, List<Map>> maps = new Dictionary<string, List<Map>>();
+        Dictionary<string, List<LevelMap>> maps = new Dictionary<string, List<LevelMap>>();
         public void LoadMap(string file)
         {
             Base.Log.Assert(!this.maps.ContainsKey(file));
@@ -15,10 +15,10 @@ namespace Logic
             this.CurrentMap = this.GetLevelMap(0);
         }
 
-        public List<Map> Maps { get { return this.maps["current"]; } }
-        public Map CurrentMap { get; private set; }
+        public List<LevelMap> Maps { get { return this.maps["current"]; } }
+        public LevelMap CurrentMap { get; private set; }
 
-        public Map GetLevelMap(int id)
+        public LevelMap GetLevelMap(int id)
         {
             var curMap = this.maps["current"];
             Base.Log.Assert(id < curMap.Count);

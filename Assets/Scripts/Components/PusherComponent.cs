@@ -22,7 +22,7 @@ public class PusherComponent
     }
 
     private Pusher Pusher;
-    private Map CurrentMap { get { return this.Pusher.Cell.Map; } }
+    private LevelMap CurrentMap { get { return this.Pusher.Cell.Map; } }
     public void Setup(Pusher pusher)
     {
         this.Pusher = pusher;

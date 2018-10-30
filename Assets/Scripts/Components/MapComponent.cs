@@ -18,7 +18,7 @@ public class MapComponent
 
     public event Action<int> OnWin;
 
-    public void SetupMap(Map Map)
+    public void SetupMap(LevelMap Map)
     {
         var cells = Map.AllCell;
         foreach(var row in cells)
@@ -84,5 +84,7 @@ public class MapComponent
     {
         this.OnWin.SafeInvoke(c);
         Base.Log.Info("Game", "You Win!");
+
+        Bootstrap.Instance.GameOver();
     }
 }

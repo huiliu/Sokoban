@@ -8,7 +8,7 @@ namespace Logic
     public static class Utils
     {
         public static string ConfigPath = UnityEngine.Application.streamingAssetsPath + "/Configs/";
-        public static List<Map> LoadMap(string file)
+        public static List<LevelMap> LoadMap(string file)
         {
             var lines = File.ReadAllLines(ConfigPath + file);
             var mapFile = new List<List<string>>();
@@ -60,12 +60,12 @@ namespace Logic
             return ParseSokFile(mapFile);
         }
 
-        private static List<Map> ParseSokFile(List<List<string>> mapsData)
+        private static List<LevelMap> ParseSokFile(List<List<string>> mapsData)
         {
-            var maps = new List<Map>();
+            var maps = new List<LevelMap>();
             foreach (var m in mapsData)
             {
-                var map = new Map();
+                var map = new LevelMap();
                 var mapData = new List<List<Cell>>();
                 for (var r = 0; r < m.Count; ++r)
                 {
@@ -93,7 +93,7 @@ namespace Logic
         public const char BoxOnGoal = '*';
         public const char Pusher = '@';
         public const char PusherOnGoal = '+';
-        private static Cell CreateCellOrBlock(Map map, char data, int r, int c)
+        private static Cell CreateCellOrBlock(LevelMap map, char data, int r, int c)
         {
 
             var cell = null as Cell;

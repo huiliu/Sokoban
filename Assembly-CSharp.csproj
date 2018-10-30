@@ -66,6 +66,8 @@
     <Compile Include="Assets\Scripts\Components\CellComponent.cs" />
     <Compile Include="Assets\Scripts\Components\Empty4Raycast.cs" />
     <Compile Include="Assets\Scripts\Components\Game.cs" />
+    <Compile Include="Assets\Scripts\Components\LevelComponent.cs" />
+    <Compile Include="Assets\Scripts\Components\LevelMgrComponent.cs" />
     <Compile Include="Assets\Scripts\Components\LogComponent.cs" />
     <Compile Include="Assets\Scripts\Components\MapComponent.cs" />
     <Compile Include="Assets\Scripts\Components\PusherComponent.cs" />
@@ -87,7 +89,7 @@
     <Compile Include="Assets\Scripts\Logic\Box.cs" />
     <Compile Include="Assets\Scripts\Logic\Cell.cs" />
     <Compile Include="Assets\Scripts\Logic\Entity.cs" />
-    <Compile Include="Assets\Scripts\Logic\Map.cs" />
+    <Compile Include="Assets\Scripts\Logic\LevelMap.cs" />
     <Compile Include="Assets\Scripts\Logic\MapMgr.cs" />
     <Compile Include="Assets\Scripts\Logic\Pusher.cs" />
     <Compile Include="Assets\Scripts\Logic\Utils.cs" />
