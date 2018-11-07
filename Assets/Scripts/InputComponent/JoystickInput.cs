@@ -9,7 +9,7 @@ public class JoystickInput
     public bool Left { get; protected set; }
     public bool Right { get; protected set; }
 
-    private void Start()
+    private void Awake()
     {
         InputMgr.Instance.BindVirtualJoystick(this);
     }

@@ -72,7 +72,6 @@
     <Compile Include="Assets\Scripts\Components\MapComponent.cs" />
     <Compile Include="Assets\Scripts\Components\PusherComponent.cs" />
     <Compile Include="Assets\Scripts\Components\SmoothMove.cs" />
-    <Compile Include="Assets\Scripts\Components\WallComponent.cs" />
     <Compile Include="Assets\Scripts\InputComponent\IInput.cs" />
     <Compile Include="Assets\Scripts\InputComponent\InputMgr.cs" />
     <Compile Include="Assets\Scripts\InputComponent\Joystick.cs" />
