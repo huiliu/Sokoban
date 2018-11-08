@@ -74,4 +74,9 @@ public class Bootstrap
             this.MapText.text = this.CurrentMap.ToString();
         }
     }
+
+    private void OnApplicationQuit()
+    {
+        UserDataMgr.Instance.Save();
+    }
 }

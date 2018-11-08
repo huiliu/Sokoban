@@ -13,7 +13,7 @@ public class LevelMgrComponent
         for (var i = 0; i < maps.Count; ++i)
         {
             var leveldata = new LevelData(i);
-            levels[i].Setup(leveldata);
+            //levels[i].Setup(leveldata);
         }
     }
 }

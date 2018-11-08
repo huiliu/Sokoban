@@ -7,6 +7,7 @@ namespace Logic
 {
     public static class Utils
     {
+        public static string PersistDataPath = UnityEngine.Application.persistentDataPath;
         public static string ConfigPath = UnityEngine.Application.streamingAssetsPath + "/Configs/";
         public static List<LevelMap> LoadMap(string file)
         {

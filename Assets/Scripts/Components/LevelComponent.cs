@@ -3,11 +3,13 @@ using UnityEngine.UI;
 
 public struct LevelData
 {
-    public int ID { get; private set; }
+    public int ID    { get; private set; }
+    public int Score { get; private set; }
 
     public LevelData(int id)
     {
         this.ID = id;
+        this.Score = -1;
     }
 }
 
@@ -16,7 +18,7 @@ public class LevelComponent
 {
     [SerializeField] private Button EnterLevel;
 
-    private void Start()
+    private void Awake()
     {
         this.EnterLevel.onClick.AddListener(this.OnClick);
     }
@@ -27,10 +29,10 @@ public class LevelComponent
     }
 
     private LevelData data;
-    public void Setup(LevelData data)
+    private int LevelID = -1;
+    public void SetLevelID(int id)
     {
-        this.data = data;
-
+        this.LevelID = id;
         this.Refresh();
     }
 
