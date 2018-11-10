@@ -7,11 +7,9 @@ namespace Logic
 {
     public static class Utils
     {
-        public static string PersistDataPath = UnityEngine.Application.persistentDataPath;
-        public static string ConfigPath = UnityEngine.Application.streamingAssetsPath + "/Configs/";
         public static List<LevelMap> LoadMap(string file)
         {
-            var lines = File.ReadAllLines(ConfigPath + file);
+            var lines = File.ReadAllLines(file);
             var mapFile = new List<List<string>>();
             var map = null as List<string>;
             var processing = false;

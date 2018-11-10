@@ -26,7 +26,7 @@ using Logic;
     {
         public static UserDataMgr Instance { get { return instance; } }
         private static UserDataMgr instance = new UserDataMgr();
-        private static string UserDataFile = Utils.PersistDataPath + "user.xml";
+        private string UserDataFile { get { return GameUtil.PersistDataPath + "/user.xml"; } }
 
         private UserData UserData;
         private UserDataMgr()

@@ -18,14 +18,19 @@ public class Bootstrap
         Instance = this; 
     }
 
+    public string Mode { get; private set; }
+    public int LevelID { get; private set; }
     private Pusher Pusher;
     private LevelMap CurrentMap;
     private bool IsRunning;
     public void StartGame(int levelID = 0)
     {
         Log.Info("Game", "Start Game!\nMap Loading...");
+        this.Mode = "Normal";
+        this.LevelID = levelID;
 
-        MapMgr.Instance.LoadMap("00.sok");
+        var MapFile = GameUtil.ConfigPath + "00.sok";
+        MapMgr.Instance.LoadMap(MapFile);
         this.CurrentMap = MapMgr.Instance.GetLevelMap(levelID);
         this.MapText.text = this.CurrentMap.ToString();
         this.Pusher = MapMgr.Instance.CurrentMap.Pusher;

@@ -17,18 +17,22 @@ public class LevelComponent
     : MonoBehaviour
 {
     [SerializeField] private Button EnterLevel;
+    [SerializeField] private GameObject Tips;
+    [SerializeField] private ScoreComponent ScoreNode;
+
 
     private void Awake()
     {
+        this.Tips.SetActiveEx(false);
+        //this.ScoreNode.SetActiveEx(false);
         this.EnterLevel.onClick.AddListener(this.OnClick);
     }
 
     private void OnClick()
     {
-        Bootstrap.Instance.StartGame(this.data.ID);
+        Bootstrap.Instance.StartGame(this.LevelID);
     }
 
-    private LevelData data;
     private int LevelID = -1;
     public void SetLevelID(int id)
     {
@@ -38,6 +42,12 @@ public class LevelComponent
 
     private void Refresh()
     {
+        var data = UserDataMgr.Instance.GetRecord(Bootstrap.Instance.Mode, this.LevelID);
+        if (!string.IsNullOrEmpty(data.Mode))
+        {
+            this.ScoreNode.Setup(data.Score);
+        }
 
+        this.ScoreNode.SetActiveEx(!string.IsNullOrEmpty(data.Mode));
     }
 }

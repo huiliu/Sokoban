@@ -21,6 +21,17 @@ public static class UnityUtils
         return t;
     }
 
+    public static void SetActiveEx(this GameObject gameObject, bool flag)
+    {
+        if (gameObject.activeSelf != flag)
+            gameObject.SetActive(flag);
+    }
+
+    public static void SetActiveEx(this MonoBehaviour monoBehaviour, bool flag)
+    {
+        monoBehaviour.gameObject.SetActiveEx(flag);
+    }
+
     /// <summary>
     /// 叉积
     /// 

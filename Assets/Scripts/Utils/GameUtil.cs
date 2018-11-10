@@ -3,6 +3,8 @@ using UnityEngine;
 
 public static class GameUtil
 {
+    public static string ConfigPath { get { return UnityEngine.Application.streamingAssetsPath + "/Configs/"; } }
+    public static string PersistDataPath { get { return UnityEngine.Application.persistentDataPath; } }
     public static float MapLayerZ = 0f;
     public static float EntityLayerZ = -0.1f;
 
