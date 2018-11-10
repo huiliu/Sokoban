@@ -12394,7 +12394,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1792018433}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1638024828}
@@ -12577,6 +12577,7 @@ MonoBehaviour:
   MapComponent: {fileID: 1792018434}
   MapGameObject: {fileID: 1251648859}
   ControlGameObject: {fileID: 1124505638}
+  LevelStatusNode: {fileID: 342602990}
 --- !u!4 &1984782820
 Transform:
   m_ObjectHideFlags: 0

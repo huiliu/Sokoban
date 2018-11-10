@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 using Logic;
 
@@ -18,6 +19,7 @@ public class MapComponent
 
     public event Action<int> OnWin;
 
+    private List<GameObject> Entities = new List<GameObject>();
     public void SetupMap(LevelMap Map)
     {
         var cells = Map.AllCell;
@@ -26,6 +28,14 @@ public class MapComponent
             foreach (var c in row)
                 this.InstantiateCell(c);
         }
+    }
+
+    public void Reset()
+    {
+        foreach (var e in this.Entities)
+            Destroy(e);
+
+        this.Entities.Clear();
     }
 
     private void InstantiateCell(Cell c)
@@ -45,8 +55,10 @@ public class MapComponent
         else
             go = Instantiate(this.Floor);
 
-        go.transform.position = c.Position.ToMapLayerPosition();
-        go.transform.SetParent(this.MapNode.transform);
+        go.transform.localPosition = c.Position.ToMapLayerPosition();
+        go.transform.SetParent(this.MapNode.transform, false);
+
+        this.Entities.Add(go);
     }
 
     private void InitEntity(Cell c)
@@ -76,8 +88,10 @@ public class MapComponent
             pc.OnWin = this.HandleOnWin;
         }
 
-        go.transform.position = c.Position.ToEntityLayerPosition();
-        go.transform.SetParent(this.EntityNode.transform);
+        go.transform.localPosition = c.Position.ToEntityLayerPosition();
+        go.transform.SetParent(this.EntityNode.transform, false);
+
+        this.Entities.Add(go);
     }
 
     private void HandleOnWin(int c)

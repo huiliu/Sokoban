@@ -14,13 +14,13 @@ public class SmoothMove
     private float time = 0.0f;
     private IEnumerator DoSmoothMove(Vector3 dst)
     {
-        float remainingDistance = (transform.position - dst).sqrMagnitude;
+        float remainingDistance = (transform.localPosition - dst).sqrMagnitude;
 
         while (remainingDistance > float.Epsilon)
         {
             time += Time.deltaTime;
-            transform.position = Vector3.Lerp(this.transform.position, dst, time / moveTime);
-            remainingDistance = (transform.position - dst).sqrMagnitude;
+            transform.localPosition = Vector3.Lerp(this.transform.localPosition, dst, time / moveTime);
+            remainingDistance = (transform.localPosition - dst).sqrMagnitude;
             yield return null;
         }
 

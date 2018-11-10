@@ -71,14 +71,14 @@ public class PusherComponent
     private void TryMove()
     {
         var targetPos = this.Pusher.Cell.Position.ToEntityLayerPosition();
-        if (this.transform.position == targetPos)
+        if (this.transform.localPosition == targetPos)
             return;
 
         if (this.MoveFlag)
             return;
 
         this.MoveFlag = true;
-        this.Move((targetPos - this.transform.position).ToVector2().ToDirection());
+        this.Move((targetPos - this.transform.localPosition).ToVector2().ToDirection());
     }
 
     private void Move(Direction direction)

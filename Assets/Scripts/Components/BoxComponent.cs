@@ -25,7 +25,7 @@ public class BoxComponent
     private bool CheckMove()
     {
         var targetPos = this.Box.Cell.Position.ToEntityLayerPosition();
-        return this.transform.position != targetPos;
+        return this.transform.localPosition != targetPos;
     }
 
     protected override void MoveEnded()
