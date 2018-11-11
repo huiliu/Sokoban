@@ -30,7 +30,7 @@ public class Bootstrap
         this.Mode = "Normal";
         this.LevelID = levelID;
 
-        var MapFile = GameUtil.ConfigPath + "00.sok";
+        var MapFile = GameUtil.ConfigPath + "Crazy_Monk.sok";
         MapMgr.Instance.LoadMap(MapFile);
         this.CurrentMap = MapMgr.Instance.GetLevelMap(levelID);
         this.MapText.text = this.CurrentMap.ToString();
