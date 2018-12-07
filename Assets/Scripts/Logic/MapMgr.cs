@@ -10,11 +10,9 @@ namespace Logic
         public void LoadMap(string file)
         {
             this.Maps = Utils.LoadMap(file);
-            this.CurrentMap = this.GetLevelMap(0);
         }
 
         public List<LevelMap> Maps { get; private set; }
-        public LevelMap CurrentMap { get; private set; }
 
         public LevelMap GetLevelMap(int id)
         {
