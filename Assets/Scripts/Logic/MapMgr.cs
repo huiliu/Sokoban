@@ -9,7 +9,7 @@ namespace Logic
 
         public void LoadMap(string file)
         {
-            this.Maps = Utils.LoadMap(file);
+            this.Maps = Utils.ParseMap(file);
         }
 
         public List<LevelMap> Maps { get; private set; }

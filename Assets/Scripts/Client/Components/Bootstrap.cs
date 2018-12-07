@@ -12,11 +12,13 @@ public class Bootstrap
     [SerializeField] private GameObject MapGameObject;
     [SerializeField] private GameObject ControlGameObject;
     [SerializeField] private GameObject LevelStatusNode;
+    [SerializeField] private GameObject LevelNode;
 
     public static Bootstrap Instance { get; private set; }
     private void Awake()
     {
-        Instance = this; 
+        Instance = this;
+        this.startGame.onClick.AddListener(() => this.StartGame(1));
     }
 
     public string Mode { get; private set; }
@@ -43,6 +45,7 @@ public class Bootstrap
         this.MapGameObject.SetActive(false);
         this.ControlGameObject.SetActive(true);
         this.LevelStatusNode.SetActiveEx(false);
+        this.LevelNode.SetActive(true);
     }
 
     public void GameOver()

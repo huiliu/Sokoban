@@ -3,3 +3,5 @@ obj
 Library
 Log
 Temp
+*.sln
+*.csproj

@@ -7,7 +7,7 @@ namespace Logic
 {
     public static class Utils
     {
-        public static List<LevelMap> LoadMap(string file)
+        public static List<LevelMap> ParseMap(string file)
         {
             var lines = File.ReadAllLines(file);
             var mapFile = new List<List<string>>();
