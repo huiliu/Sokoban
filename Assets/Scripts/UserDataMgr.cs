@@ -80,7 +80,7 @@ using Logic;
             r.Score = record.Score;
             r.MoveCount = record.MoveCount;
 
-            if (string.IsNullOrEmpty(r.Mode))
+            if (!string.IsNullOrEmpty(r.Mode))
             {
                 r.Mode = record.Mode;
                 this.UserData.Records.Add(r);

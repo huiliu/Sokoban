@@ -15,6 +15,6 @@ public class PathTester
         // D:/liuhui/Sokoban/Assets
         Debug.Log(string.Format("Application.dataPath: {0}", Application.dataPath));
 
-        MapMgr.Instance.LoadMap("Yoshio.sok");
+        //LevelMgr.Instance.LoadMap("Yoshio.sok");
     }
 }

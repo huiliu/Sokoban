@@ -21,6 +21,7 @@ GameObject:
   - component: {fileID: 224665323603263340}
   - component: {fileID: 222840030877372188}
   - component: {fileID: 212555260790432030}
+  - component: {fileID: 114890386570990634}
   m_Layer: 5
   m_Name: BoxGoal
   m_TagString: Untagged
@@ -28,6 +29,17 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &114890386570990634
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1456718395988062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 936c8200c2a8d4e429bc2580d781719a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212555260790432030
 SpriteRenderer:
   m_ObjectHideFlags: 1

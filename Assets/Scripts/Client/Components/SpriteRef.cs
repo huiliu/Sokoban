@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace GraphGame.Client
+namespace Sokoban.Client
 {
     // 对象引用工具组件
     public class SpriteRef : MonoBehaviour, IEnumerable<KeyValuePair<string, Sprite>>

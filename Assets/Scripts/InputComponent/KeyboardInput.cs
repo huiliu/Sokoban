@@ -1,24 +1,21 @@
 ﻿using UnityEngine;
+using Logic;
 
 public class KeyboardInput
-    : MonoBehaviour
-    , IInput
+    : IInput
 {
-    public bool Up { get; protected set; }
-    public bool Down { get; protected set; }
-    public bool Left { get; protected set; }
-    public bool Right { get; protected set; }
-
-    private void Awake()
-    {
-        InputMgr.Instance.BindKeyboard(this);
-    }
-
     private void Update()
     {
-        this.Up = Input.GetKeyDown(KeyCode.W);
-        this.Down = Input.GetKeyDown(KeyCode.S);
-        this.Left = Input.GetKeyDown(KeyCode.A);
-        this.Right = Input.GetKeyDown(KeyCode.D);
+        if (Input.GetKeyDown(KeyCode.W))
+            this.Up.SafeInvoke();
+
+        if (Input.GetKeyDown(KeyCode.S))
+            this.Down.SafeInvoke();
+
+        if (Input.GetKeyDown(KeyCode.A))
+            this.Left.SafeInvoke();
+
+        if (Input.GetKeyDown(KeyCode.D))
+            this.Right.SafeInvoke();
     }
 }

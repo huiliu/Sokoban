@@ -1,7 +1,11 @@
-﻿public interface IInput
+﻿using System;
+using UnityEngine;
+
+public abstract class IInput
+    : MonoBehaviour
 {
-    bool Up { get; }
-    bool Down { get; }
-    bool Left { get; }
-    bool Right { get; } 
+    public Action Up;
+    public Action Down;
+    public Action Left;
+    public Action Right;
 }

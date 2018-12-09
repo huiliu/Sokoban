@@ -1,8 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using UnityEngine;
 using Logic;
 
-namespace GraphGame.Client
+namespace Sokoban.Client
 {
     public class LevelComponentEx
         : MonoBehaviour
@@ -10,9 +11,9 @@ namespace GraphGame.Client
         [SerializeField]
         private GameObject LevelNode;
 
-        private void ShowLevels()
+        public void ShowLevels(int count)
         {
-            var count = MapMgr.Instance.Maps.Count;
+            count = count > 12 ? 12 : count;
             for(var i = 0; i < count; ++i)
             {
                 this.AddLevelNode(i);
@@ -28,7 +29,14 @@ namespace GraphGame.Client
             this.Nodes.Add(go);
 
             var c = go.GetComponent<LevelNodeComponent>();
+            c.OnSelectLevel += OnSelectLevel;
             c.Setup(id, -1);
+        }
+
+        public event Action<int> OnStartGame;
+        private void OnSelectLevel(int levelId)
+        {
+            this.OnStartGame.SafeInvoke(levelId);
         }
 
         private void RemoveAllNode()
@@ -37,16 +45,6 @@ namespace GraphGame.Client
                 Destroy(go);
 
             this.Nodes.Clear();
-        }
-
-        private void OnEnable()
-        {
-            this.ShowLevels();
-        }
-
-        private void OnDisable()
-        {
-            this.RemoveAllNode();
         }
     }
 }

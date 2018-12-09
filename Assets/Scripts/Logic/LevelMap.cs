@@ -8,7 +8,7 @@ namespace Logic
         private List<List<Cell>> Cells = new List<List<Cell>>();
         public int Width { get; private set; }
         public int Height { get; private set; }
-        public LevelMap() { }
+        public int LevelID { get; set; }
 
         public void SetData(List<List<Cell>> data)
         {

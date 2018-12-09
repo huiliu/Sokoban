@@ -98,7 +98,5 @@ public class MapComponent
     {
         this.OnWin.SafeInvoke(c);
         Base.Log.Info("Game", "You Win!");
-
-        Bootstrap.Instance.GameOver();
     }
 }

@@ -7,7 +7,7 @@ namespace Logic
 {
     public static class Utils
     {
-        public static List<LevelMap> ParseMap(string file)
+        public static IList<List<string>> LoadAndPurifyLevelFile(string file)
         {
             var lines = File.ReadAllLines(file);
             var mapFile = new List<List<string>>();
@@ -56,33 +56,41 @@ namespace Logic
                 map = null;
             }
 
-            return ParseSokFile(mapFile);
+            return mapFile;
         }
 
-        private static List<LevelMap> ParseSokFile(List<List<string>> mapsData)
+        public static IList<LevelMap> ParseSokFile(List<List<string>> mapsData)
         {
+            var i = 0;
             var maps = new List<LevelMap>();
             foreach (var m in mapsData)
             {
-                var map = new LevelMap();
-                var mapData = new List<List<Cell>>();
-                for (var r = 0; r < m.Count; ++r)
-                {
-                    var count = m[r].Length;
-                    var row = new List<Cell>();
-                    for (var c = 0; c < count; ++c)
-                    {
-                        row.Add(CreateCellOrBlock(map, m[r][c], r, c));
-                    }
-
-                    mapData.Add(row);
-                }
-
-                map.SetData(mapData);
-                maps.Add(map);
+                var level = ParseLevelData(m);
+                level.LevelID = i++;
+                maps.Add(level);
             }
 
-            return maps;
+            return maps.AsReadOnly();
+        }
+
+        public static LevelMap ParseLevelData(List<string> data)
+        {
+            var map = new LevelMap();
+            var mapData = new List<List<Cell>>();
+            for (var r = 0; r < data.Count; ++r)
+            {
+                var count = data[r].Length;
+                var row = new List<Cell>();
+                for (var c = 0; c < count; ++c)
+                {
+                    row.Add(CreateCellOrBlock(map, data[r][c], r, c));
+                }
+
+                mapData.Add(row);
+            }
+            map.SetData(mapData);
+
+            return map;
         }
 
         public const char Wall = '#';

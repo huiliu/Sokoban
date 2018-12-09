@@ -1,44 +1,26 @@
 ﻿using UnityEngine;
+using Logic;
 
 public class JoystickInput
-    : MonoBehaviour
-    , IInput
+    : IInput
 {
-    public bool Up { get; protected set; }
-    public bool Down { get; protected set; }
-    public bool Left { get; protected set; }
-    public bool Right { get; protected set; }
-
-    private void Awake()
-    {
-        InputMgr.Instance.BindVirtualJoystick(this);
-    }
-
     public void OnUp()
     {
-        this.Up = true;
+        this.Up.SafeInvoke();
     }
 
     public void OnRight()
     {
-        this.Right = true;
+        this.Right.SafeInvoke();
     }
 
     public void OnDown()
     {
-        this.Down = true;
+        this.Down.SafeInvoke();
     }
 
     public void OnLeft()
     {
-        this.Left = true;
-    }
-
-    protected void LateUpdate()
-    {
-        this.Up = false;
-        this.Right = false;
-        this.Down = false;
-        this.Left = false;
+        this.Left.SafeInvoke();
     }
 }
