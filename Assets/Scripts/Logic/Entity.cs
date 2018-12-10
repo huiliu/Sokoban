@@ -22,5 +22,10 @@ namespace Logic
         public abstract bool MoveDown();
         public abstract bool MoveLeft();
         public abstract bool MoveRight();
+
+        public override string ToString()
+        {
+            return string.Format("Entity[type:{0} Pos: {1}]", this.Type, this.Cell.Position);
+        }
     }
 }

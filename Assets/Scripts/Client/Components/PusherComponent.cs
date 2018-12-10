@@ -71,14 +71,25 @@ public class PusherComponent
     private void TryMove()
     {
         var targetPos = this.Pusher.Cell.Position.ToEntityLayerPosition();
+        if (this.CanMove(targetPos))
+        {
+            this.MoveFlag = true;
+            this.Move((targetPos - this.transform.localPosition).ToVector2().ToDirection());
+        }
+    }
+
+    private bool CanMove(Vector3 targetPos)
+    {
         if (this.transform.localPosition == targetPos)
-            return;
+            return false;
 
         if (this.MoveFlag)
-            return;
+            return false;
 
-        this.MoveFlag = true;
-        this.Move((targetPos - this.transform.localPosition).ToVector2().ToDirection());
+        if (this.CurrentMap.Finished)
+            return false;
+
+        return true;
     }
 
     private void Move(Direction direction)
@@ -109,11 +120,8 @@ public class PusherComponent
 
     protected override void MoveEnded()
     {
-        base.MoveEnded();
-
         this.MoveFlag = false;
         Base.Log.Info("Game", "Pusher Move End!");
-        //StartCoroutine(this.SetFaceSprite(this.FaceDirection));
 
         this.TryWin();
     }

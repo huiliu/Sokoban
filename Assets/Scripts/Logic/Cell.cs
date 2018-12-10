@@ -17,6 +17,11 @@ namespace Logic
             this.row = r;
             this.col = c;
         }
+
+        public override string ToString()
+        {
+            return string.Format("(r: {0}, c: {1})", this.row, this.col);
+        }
     }
 
     public class Cell

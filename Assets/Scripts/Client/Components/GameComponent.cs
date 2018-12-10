@@ -12,20 +12,25 @@ namespace Sokoban.Client
         [SerializeField] private GameObject LevelNode;
         [SerializeField] private GameObject ControlUI;
         [SerializeField] private GameObject InputMgr;
+        [SerializeField] private GameObject StatuNode;
+        [SerializeField] private ResultComponent ResultComponent;
         [SerializeField] private MapComponent MapComponent;
-        [SerializeField] private StatusComponent StatusComponent;
 
         private LevelMgr LevelMgr;
         private LevelComponentEx LevelComponentEx;
+        private StatusComponent StatusComponent;
         private InputComponent InputComponent;
         private CommandMgr CommandMgr;
         private void Awake()
         {
-
+            this.StatusComponent = this.StatuNode.GetComponentInChildren<StatusComponent>(true);
             this.InputComponent = this.InputMgr.GetComponent<InputComponent>();
             this.LevelComponentEx = this.LevelNode.GetComponentInChildren<LevelComponentEx>(true);
             this.LevelComponentEx.OnStartGame += OnStartGame;
             this.MapComponent.OnWin += OnWin;
+
+            this.ResultComponent.OnReturn = () => this.BackToLevel();
+            this.ResultComponent.OnNext = () => this.OnStartGame(this.CurrentMap.LevelID + 1);
 
             this.LevelMgr = new LevelMgr();
             this.LevelMgr.LoadLevel(Application.streamingAssetsPath + "/" + LevelMgr.kLevelMapFile);
@@ -41,6 +46,8 @@ namespace Sokoban.Client
             record.LevelID = this.CurrentMap.LevelID;
             record.MoveCount = this.StepCount;
             UserDataMgr.Instance.AddOrUpdate(record);
+
+            this.ResultComponent.Show(3);
 
             this.IsRunning = false;
         }
@@ -68,6 +75,7 @@ namespace Sokoban.Client
             this.MapText.SetActiveEx(flag);
             this.ControlUI.SetActiveEx(flag);
             this.MapComponent.SetActiveEx(flag);
+            this.StatuNode.SetActiveEx(flag);
             this.LevelNode.SetActiveEx(!flag);
         }
 
