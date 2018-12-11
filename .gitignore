@@ -7,3 +7,4 @@ Temp
 *.csproj
 Output/
 Packages/
+ProjectSettings/ProjectVersion.txt

@@ -13,6 +13,7 @@ public class Bootstrap
         Instance = this;
         this.InitLog();
         this.updateMgr = new UpdateMgr();
+        this.updateMgr.Init();
     }
 
     private void OnEnable()

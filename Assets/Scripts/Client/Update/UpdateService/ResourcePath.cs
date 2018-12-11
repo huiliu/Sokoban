@@ -8,39 +8,55 @@ using System.Text;
         Scene,
         Prefab,
         Texture,
+        TextAsset,
     }
 
-    public static class ResourcePath
-    {
-        public const string kAssetBundlesPath = "AssetBundles/";
-        public const string kAnimationPath = "Animations/";
-        public const string kAudioPath = "Audio/";
-        public const string kScenePath = "Scenes/";
-        public const string kPrefabPath = "Prefabs/";
-        public const string kTexturePath = "Textures/";
+public static class ResourcePath
+{
+    public const string kAssetBundlesPath = "AssetBundles/";
+    public const string kAnimationPath = "Animations/";
+    public const string kAudioPath = "Audio/";
+    public const string kScenePath = "Scenes/";
+    public const string kPrefabPath = "Prefabs/";
+    public const string kTexturePath = "Textures/";
+    public const string kTextAssetPath = "TextAssets/";
 
-        public static string GetResourceFullPath(string name, ResourceType type)
+    private static StringBuilder sb = new StringBuilder(256);
+    public static string GetResourceFullPath(string name, ResourceType type)
+    {
+        sb.Clear();
+
+        switch(type)
         {
-            switch(type)
-            {
-                case ResourceType.Animation:
-                    return GetAnimationsFileFullPath(name);
-                case ResourceType.Audio:
-                    return GetAudioFileFullPath(name);
-                case ResourceType.Prefab:
-                    return GetPrefabFileFullPath(name);
-                case ResourceType.Scene:
-                    return GetSceneFileFullPath(name);
-                case ResourceType.Texture:
-                    return GetTextureFileFullPath(name);
-                default:
-                    System.Diagnostics.Debug.Assert(false);
-                    return null;
-            }
+            case ResourceType.Animation:
+                sb.Append(kAnimationPath);
+                break;
+            case ResourceType.Audio:
+                sb.Append(kAudioPath);
+                break;
+            case ResourceType.Prefab:
+                sb.Append(kPrefabPath);
+                break;
+            case ResourceType.Scene:
+                sb.Append(kScenePath);
+                break;
+            case ResourceType.Texture:
+                sb.Append(kTexturePath);
+                break;
+            case ResourceType.TextAsset:
+                sb.Append(kTextAssetPath);
+                break;
+            default:
+                Base.Log.Assert(false, "不存在的资源类型：{0}", type);
+                return null;
         }
 
+        sb.Append(name);
 
-        private static StringBuilder sb = new StringBuilder(256);
+        return sb.ToString();
+    }
+
+
         /// <summary>
         /// 获取Prefab在Assets目录下的全路径
         ///

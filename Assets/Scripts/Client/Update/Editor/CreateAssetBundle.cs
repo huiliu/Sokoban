@@ -18,7 +18,7 @@ public class CreateAssetBundle
         builds.Clear();
 
         TagResource("Assets/" + ResourcePath.kPrefabPath, "*.prefab");
-        TagResource("Assets/" + ResourcePath.kPrefabPath, "*.png");
+        TagResource("Assets/" + ResourcePath.kTexturePath, "*.png");
         BuildPipeline.BuildAssetBundles(kAssetBundlesExportDir, builds.ToArray(), BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows);
     }
 

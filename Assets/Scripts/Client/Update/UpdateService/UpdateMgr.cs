@@ -46,6 +46,12 @@ using Version = System.Version;
             this.CurrentResVersion = new ResourceVersion();
         }
 
+    public void Init()
+    {
+        if (!Directory.Exists(sAssetBundlePersistentPath))
+            Directory.CreateDirectory(sAssetBundlePersistentPath);
+    }
+
         public IEnumerator TryUpdate()
         {
             this.UpdateStatus = UpdateStatus.CheckRemoteVersion;

@@ -154,4 +154,34 @@ using UnityEngine;
         public void LoadTexture(string name, Action<Sprite> cb)
         {
         }
+
+    private void LoadTextAsset(string name, Action<string> cb)
+    {
+        var loadedAssetbundle = null as LoadedAssetBundle;
+        do
+        {
+            if (this.LoadedAssetBundles.TryGetValue(name, out loadedAssetbundle))
+            {
+                break;
+            }
+
+            var path = this.GetResourceFullPath(name, ResourceType.TextAsset);
+            var assetbundle = AssetBundle.LoadFromFile(path);
+            if (assetbundle != null)
+            {
+                this.LoadDependencies(Path.GetFileName(path));
+
+                loadedAssetbundle = new LoadedAssetBundle(assetbundle);
+                this.LoadedAssetBundles.Add(name, loadedAssetbundle);
+            }
+        } while (false);
+
+        var textAsset = null as TextAsset;
+        if (loadedAssetbundle != null)
+        {
+            textAsset = loadedAssetbundle.AssetBundle.LoadAsset<TextAsset>(name);
+        }
+
+        cb.SafeInvoke(textAsset != null ? textAsset.text : null);
     }
+}
