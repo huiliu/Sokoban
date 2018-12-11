@@ -163,10 +163,10 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 720, y: 1280}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -767,9 +767,41 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 1371675953205310, guid: 680b08a62c3b0a249af50aecf94f9e82, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 680b08a62c3b0a249af50aecf94f9e82, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &895283602 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1944177268450460, guid: 67d115d73982d864f80b1a810567cfac,
+    type: 2}
+  m_PrefabInternal: {fileID: 2081089916}
+--- !u!114 &895283605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 895283602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Padding:
+    m_Left: 0
+    m_Right: 0
+    m_Top: 0
+    m_Bottom: 0
+  m_ChildAlignment: 0
+  m_StartCorner: 0
+  m_StartAxis: 0
+  m_CellSize: {x: 64, y: 64}
+  m_Spacing: {x: 16, y: 16}
+  m_Constraint: 0
+  m_ConstraintCount: 2
 --- !u!1 &961296514
 GameObject:
   m_ObjectHideFlags: 0
@@ -1202,6 +1234,22 @@ Prefab:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 114261073202647970, guid: 67d115d73982d864f80b1a810567cfac,
+        type: 2}
+      propertyPath: m_Constraint
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114261073202647970, guid: 67d115d73982d864f80b1a810567cfac,
+        type: 2}
+      propertyPath: m_ConstraintCount
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114261073202647970, guid: 67d115d73982d864f80b1a810567cfac,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114261073202647970, guid: 67d115d73982d864f80b1a810567cfac, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 67d115d73982d864f80b1a810567cfac, type: 2}
   m_IsPrefabAsset: 0

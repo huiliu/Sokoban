@@ -5,3 +5,4 @@ Log
 Temp
 *.sln
 *.csproj
+Output/

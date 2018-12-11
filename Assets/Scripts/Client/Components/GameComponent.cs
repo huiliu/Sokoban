@@ -61,8 +61,8 @@ namespace Sokoban.Client
         {
             this.IsRunning = true;
             this.CurrentMap = this.LevelMgr.GetLevelMap(levelID);
-            this.Pusher = this.CurrentMap.Pusher;
             this.MapComponent.SetupMap(this.CurrentMap);
+            this.Pusher = this.CurrentMap.Pusher;
 
             this.CommandMgr = new CommandMgr();
             this.InputComponent.Setup(this.Pusher);

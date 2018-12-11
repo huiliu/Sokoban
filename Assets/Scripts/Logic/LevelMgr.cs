@@ -3,7 +3,7 @@ namespace Logic
 {
     public class LevelMgr
     {
-        public const string kLevelMapFile = "Configs/00.sok";
+        public const string kLevelMapFile = "Configs/Minicosmos.sok";
         public LevelMgr() { }
         public void LoadLevel(string file)
         {

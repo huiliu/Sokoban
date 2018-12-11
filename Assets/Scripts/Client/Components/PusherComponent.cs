@@ -86,8 +86,8 @@ public class PusherComponent
         if (this.MoveFlag)
             return false;
 
-        if (this.CurrentMap.Finished)
-            return false;
+        //if (this.CurrentMap.Finished)
+        //    return false;
 
         return true;
     }

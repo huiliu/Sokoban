@@ -78,8 +78,7 @@ namespace Logic
         }
         public Pusher Pusher { get; private set; }
 
-        public Action OnWin;
-        public Action OnFailed;
+        public event Action OnWin;
         public void CheckWin()
         {
             if (this.Finished)
