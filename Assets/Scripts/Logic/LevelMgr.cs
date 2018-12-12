@@ -1,13 +1,27 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+
 namespace Logic
 {
     public class LevelMgr
     {
         public const string kLevelMapFile = "Configs/Minicosmos.sok";
-        public LevelMgr() { }
+        private readonly IMapLoader MapLoader;
+        public LevelMgr(IMapLoader loader)
+        {
+            this.MapLoader = loader;
+        }
+
+        /// <summary>
+        /// 加载关卡数据
+        /// </summary>
+        /// <param name="file">Data File. 路径为相对于Assets/TextAssets/</param>
         public void LoadLevel(string file)
         {
-            this.Maps = Utils.LoadAndPurifyLevelFile(file);
+            this.MapLoader.LoadMap(file, lines =>
+            {
+                this.Maps = Utils.LoadAndPurifyLevelFile(lines);
+            });
         }
 
         public IList<List<string>> Maps { get; private set; }

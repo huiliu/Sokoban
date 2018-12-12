@@ -32,8 +32,8 @@ namespace Sokoban.Client
             this.ResultComponent.OnReturn = () => this.BackToLevel();
             this.ResultComponent.OnNext = () => this.OnStartGame(this.CurrentMap.LevelID + 1);
 
-            this.LevelMgr = new LevelMgr();
-            this.LevelMgr.LoadLevel(Application.streamingAssetsPath + "/" + LevelMgr.kLevelMapFile);
+            this.LevelMgr = new LevelMgr(new LevelLoader());
+            this.LevelMgr.LoadLevel(LevelMgr.kLevelMapFile);
             this.LevelComponentEx.ShowLevels(this.TotalLevelCount);
 
             this.SwitchUI(false);

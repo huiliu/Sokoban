@@ -155,7 +155,7 @@ using UnityEngine;
         {
         }
 
-    private void LoadTextAsset(string name, Action<string> cb)
+    public void LoadTextAsset(string name, Action<string> cb)
     {
         var loadedAssetbundle = null as LoadedAssetBundle;
         do
@@ -182,6 +182,6 @@ using UnityEngine;
             textAsset = loadedAssetbundle.AssetBundle.LoadAsset<TextAsset>(name);
         }
 
-        cb.SafeInvoke(textAsset != null ? textAsset.text : null);
+        cb.SafeInvoke(textAsset?.text);
     }
 }

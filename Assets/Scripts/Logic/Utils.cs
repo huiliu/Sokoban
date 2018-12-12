@@ -7,9 +7,8 @@ namespace Logic
 {
     public static class Utils
     {
-        public static IList<List<string>> LoadAndPurifyLevelFile(string file)
+        public static IList<List<string>> LoadAndPurifyLevelFile(List<string> lines)
         {
-            var lines = File.ReadAllLines(file);
             var mapFile = new List<List<string>>();
             var map = null as List<string>;
             var processing = false;

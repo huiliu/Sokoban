@@ -1,17 +1,18 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 using System.Collections.Generic;
 
 namespace Logic
 {
     public interface IMapLoader
     {
-        List<string> LoadMap(string fileName);
+        void LoadMap(string fileName, Action<List<string>> cb);
     }
 
     public class LogicMapLoader
         : IMapLoader
     {
-        public List<string> LoadMap(string fileName)
+        public void LoadMap(string fileName, Action<List<string>> cb)
         {
             var Lines = new List<string>();
             var lines = File.ReadAllLines(fileName);
@@ -22,7 +23,7 @@ namespace Logic
                     Lines.Add(t);
             }
 
-            return Lines;
+             cb.SafeInvoke(Lines);
         }
     }
 }

@@ -8,4 +8,5 @@ public interface IResourceMgr
 
     void LoadPrefab(string name, Action<GameObject> cb);
     void LoadTexture(string name, Action<Sprite> cb);
+    void LoadTextAsset(string name, Action<string> cb);
 }

@@ -5,15 +5,9 @@ using UnityEditor;
 using Object = UnityEngine.Object;
 using System.Text;
 
-namespace Assets.Scripts
-{
-    public class EditorResourceMgr
+public class EditorResourceMgr
         : IResourceMgr
     {
-        public EditorResourceMgr()
-        {
-        }
-
         public void Init()
         {
             this.LoadedResource = new Dictionary<string, Object>();
@@ -47,9 +41,7 @@ namespace Assets.Scripts
                     break;
                 }
 
-#if UNITY_EDITOR
                 go = AssetDatabase.LoadAssetAtPath<GameObject>(path);
-#endif
                 if (go == null)
                 {
                     break;
@@ -75,9 +67,7 @@ namespace Assets.Scripts
                     break;
                 }
 
-#if UNITY_EDITOR
                 go = AssetDatabase.LoadAssetAtPath<Sprite>(path);
-#endif
                 if (go == null)
                 {
                     break;
@@ -96,5 +86,27 @@ namespace Assets.Scripts
 
             return obj as T;
         }
+
+        public void LoadTextAsset(string name, Action<string> cb)
+        {
+            var textAsset = null as TextAsset;
+            do
+            {
+                var path = this.GetResourceFullPath(name, ResourceType.TextAsset);
+                var obj = null as Object;
+                if (this.LoadedResource.TryGetValue(path, out obj))
+                {
+                    textAsset = obj as TextAsset;
+                    break;
+                }
+
+                textAsset = AssetDatabase.LoadAssetAtPath<TextAsset>(path);
+                if (textAsset == null)
+                    break;
+
+                this.LoadedResource.Add(path, textAsset);
+            } while (false);
+
+            cb.SafeInvoke(textAsset?.text);
+        }
     }
-}

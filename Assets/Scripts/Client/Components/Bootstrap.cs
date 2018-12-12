@@ -21,18 +21,23 @@ public class Bootstrap
         this.StartCoroutine(this.updateMgr.TryUpdate());
     }
 
-    private IResourceMgr resourceMgr;
+    public IResourceMgr ResourceMgr { get; private set; }
     private void Update()
     {
         if (this.updateMgr.UpdateStatus == UpdateStatus.Finished &&
-            this.resourceMgr == null)
+            this.ResourceMgr == null)
             this.InitResourceMgr();
     }
 
     private void InitResourceMgr()
     {
-        this.resourceMgr = new AssetBundleMgr();
-        this.resourceMgr.Init();
+#if UNITY_EDITOR
+        this.ResourceMgr = new EditorResourceMgr();
+        this.ResourceMgr.Init();
+#else
+        this.ResourceMgr = new AssetBundleMgr();
+        this.ResourceMgr.Init();
+#endif
     }
 
     private void OnApplicationQuit()
@@ -48,7 +53,11 @@ public class Bootstrap
         Log.SetFilterLevel(LogLevel.Info);
 #endif
 
-        var logfile = Path.Combine(Application.streamingAssetsPath, "../../Log/client.log");
+#if UNITY_EDITOR
+        var logfile = Path.Combine(Application.dataPath, "../client.log");
+#else
+        var logfile = Path.Combine(Application.persistentDataPath, "../client.log");
+#endif
         Log.AddOutput(new FileOutput(logfile));
         Log.AddOutput(new UnityOutput());
         Log.AddOutput(GMOutput.Instance);

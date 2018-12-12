@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.Collections.Generic;
+using UnityEngine;
 using UnityEditor;
 
 public class CreateAssetBundle
@@ -19,7 +20,7 @@ public class CreateAssetBundle
 
         TagResource("Assets/" + ResourcePath.kPrefabPath, "*.prefab");
         TagResource("Assets/" + ResourcePath.kTexturePath, "*.png");
-        BuildPipeline.BuildAssetBundles(kAssetBundlesExportDir, builds.ToArray(), BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows);
+        BuildPipeline.BuildAssetBundles(kAssetBundlesExportDir, builds.ToArray(), BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
     }
 
     static void TagResource(string path, string suffix)
