@@ -19,9 +19,9 @@ namespace Sokoban.Client
 
                     foreach (var l in data.Split('\n'))
                     {
-                        var t = l.Trim();
-                        if (!string.IsNullOrEmpty(t))
-                            lines.Add(t);
+                        //var t = l.Trim();
+                        if (!string.IsNullOrEmpty(l))
+                            lines.Add(l);
                     }
                 } while (false);
 

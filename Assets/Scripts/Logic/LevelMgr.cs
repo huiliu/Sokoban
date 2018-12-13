@@ -5,7 +5,8 @@ namespace Logic
 {
     public class LevelMgr
     {
-        public const string kLevelMapFile = "Configs/Minicosmos.sok";
+        public const string kLevelMapFile = "Configs/Minicosmos.txt";
+        //public const string kLevelMapFile = "Configs/du_Peloux.txt";
         private readonly IMapLoader MapLoader;
         public LevelMgr(IMapLoader loader)
         {

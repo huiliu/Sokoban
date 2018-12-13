@@ -1,7 +1,7 @@
 Date of Last Change: 
 
 Set:       Minicosmos
-Copyright: © Aymeric du Peloux
+Copyright: Â© Aymeric du Peloux
 Email:     aymeric.du-peloux@gadz.org
 Homepage:  http://membres.lycos.fr/nabokos
 
@@ -12,7 +12,7 @@ This Sokoban level set is published here with the author's permission.
 The level set is distributed in a text format, that can be imported
 by most of the major Sokoban programs.
 
-For Microsoft Windows ® we recommend using "Sokoban YASC", which can
+For Microsoft Windows Â® we recommend using "Sokoban YASC", which can
 be downloaded from: http://sourceforge.net/projects/sokobanyasc/
 
 Enjoy!
@@ -34,7 +34,7 @@ Sokoban WIKI            at http://sokobano.de/wiki/
 Title: Minicosmos 1
 Author: Aymeric du Peloux
 Comment:
-difficulté: 0.5
+difficultÃ©: 0.5
 Comment-End:
 
 2
@@ -49,7 +49,7 @@ Comment-End:
 Title: Minicosmos 2
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1.5
+difficultÃ©: 1.5
 Comment-End:
 
 3
@@ -64,7 +64,7 @@ Comment-End:
 Title: Minicosmos 3
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3
+difficultÃ©: 3
 Comment-End:
 
 4
@@ -80,7 +80,7 @@ Comment-End:
 Title: Minicosmos 4
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1
+difficultÃ©: 1
 Comment-End:
 
 5
@@ -96,7 +96,7 @@ Comment-End:
 Title: Minicosmos 5
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 6
@@ -112,7 +112,7 @@ Comment-End:
 Title: Minicosmos 6
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3
+difficultÃ©: 3
 Comment-End:
 
 7
@@ -128,7 +128,7 @@ Comment-End:
 Title: Minicosmos 7
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1.5
+difficultÃ©: 1.5
 Comment-End:
 
 8
@@ -144,7 +144,7 @@ Comment-End:
 Title: Minicosmos 8
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 9
@@ -159,7 +159,7 @@ Comment-End:
 Title: Minicosmos 9
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 10
@@ -174,7 +174,7 @@ Comment-End:
 Title: Minicosmos 10
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 11
@@ -189,7 +189,7 @@ Comment-End:
 Title: Minicosmos 11
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 12
@@ -204,7 +204,7 @@ Comment-End:
 Title: Minicosmos 12
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 13
@@ -220,7 +220,7 @@ Comment-End:
 Title: Minicosmos 13
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 14
@@ -236,7 +236,7 @@ Comment-End:
 Title: Minicosmos 14
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4
+difficultÃ©: 4
 Comment-End:
 
 15
@@ -251,7 +251,7 @@ Comment-End:
 Title: Minicosmos 15
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 16
@@ -266,7 +266,7 @@ Comment-End:
 Title: Minicosmos 16
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4
+difficultÃ©: 4
 Comment-End:
 
 17
@@ -282,7 +282,7 @@ Comment-End:
 Title: Minicosmos 17
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1.5
+difficultÃ©: 1.5
 Comment-End:
 
 18
@@ -298,7 +298,7 @@ Comment-End:
 Title: Minicosmos 18
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4
+difficultÃ©: 4
 Comment-End:
 
 19
@@ -314,7 +314,7 @@ Comment-End:
 Title: Minicosmos 19
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1.5
+difficultÃ©: 1.5
 Comment-End:
 
 20
@@ -330,7 +330,7 @@ Comment-End:
 Title: Minicosmos 20
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4
+difficultÃ©: 4
 Comment-End:
 
 21
@@ -346,7 +346,7 @@ Comment-End:
 Title: Minicosmos 21
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 22
@@ -362,7 +362,7 @@ Comment-End:
 Title: Minicosmos 22
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4.5
+difficultÃ©: 4.5
 Comment-End:
 
 23
@@ -378,7 +378,7 @@ Comment-End:
 Title: Minicosmos 23
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 24
@@ -394,7 +394,7 @@ Comment-End:
 Title: Minicosmos 24
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4.5
+difficultÃ©: 4.5
 Comment-End:
 
 25
@@ -410,7 +410,7 @@ Comment-End:
 Title: Minicosmos 25
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1.5
+difficultÃ©: 1.5
 Comment-End:
 
 26
@@ -426,7 +426,7 @@ Comment-End:
 Title: Minicosmos 26
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4.5
+difficultÃ©: 4.5
 Comment-End:
 
 27
@@ -442,7 +442,7 @@ Comment-End:
 Title: Minicosmos 27
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2.5
+difficultÃ©: 2.5
 Comment-End:
 
 28
@@ -458,7 +458,7 @@ Comment-End:
 Title: Minicosmos 28
 Author: Aymeric du Peloux
 Comment:
-difficulté: 5
+difficultÃ©: 5
 Comment-End:
 
 29
@@ -474,7 +474,7 @@ Comment-End:
 Title: Minicosmos 29
 Author: Aymeric du Peloux
 Comment:
-difficulté: 1.5
+difficultÃ©: 1.5
 Comment-End:
 
 30
@@ -490,7 +490,7 @@ Comment-End:
 Title: Minicosmos 30
 Author: Aymeric du Peloux
 Comment:
-difficulté: 5
+difficultÃ©: 5
 Comment-End:
 
 31
@@ -505,7 +505,7 @@ Comment-End:
 Title: Minicosmos 31
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2
+difficultÃ©: 2
 Comment-End:
 
 32
@@ -520,7 +520,7 @@ Comment-End:
 Title: Minicosmos 32
 Author: Aymeric du Peloux
 Comment:
-difficulté: 2.5
+difficultÃ©: 2.5
 Comment-End:
 
 33
@@ -534,7 +534,7 @@ Comment-End:
 Title: Minicosmos 33
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 34
@@ -548,7 +548,7 @@ Comment-End:
 Title: Minicosmos 34
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 35
@@ -562,7 +562,7 @@ Comment-End:
 Title: Minicosmos 35
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3
+difficultÃ©: 3
 Comment-End:
 
 36
@@ -577,7 +577,7 @@ Comment-End:
 Title: Minicosmos 36
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 37
@@ -593,7 +593,7 @@ Comment-End:
 Title: Minicosmos 37
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4
+difficultÃ©: 4
 Comment-End:
 
 38
@@ -608,7 +608,7 @@ Comment-End:
 Title: Minicosmos 38
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3
+difficultÃ©: 3
 Comment-End:
 
 39
@@ -624,7 +624,7 @@ Comment-End:
 Title: Minicosmos 39
 Author: Aymeric du Peloux
 Comment:
-difficulté: 3.5
+difficultÃ©: 3.5
 Comment-End:
 
 40
@@ -639,5 +639,5 @@ Comment-End:
 Title: Minicosmos 40
 Author: Aymeric du Peloux
 Comment:
-difficulté: 4
+difficultÃ©: 4
 Comment-End:

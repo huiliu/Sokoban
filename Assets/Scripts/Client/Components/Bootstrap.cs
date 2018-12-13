@@ -1,12 +1,18 @@
 ﻿using System.IO;
 using UnityEngine;
 using Base;
+using Logic;
+using Sokoban.Client;
 
 public class Bootstrap
     : MonoBehaviour
 {
+    [SerializeField]
+    private GameObject GameNode;
+
     public static Bootstrap Instance { get; private set; }
 
+    public LevelMgr LevelMgr { get; private set; }
     private UpdateMgr updateMgr;
     private void Awake()
     {
@@ -38,6 +44,11 @@ public class Bootstrap
         this.ResourceMgr = new AssetBundleMgr();
         this.ResourceMgr.Init();
 #endif
+
+        this.LevelMgr = new LevelMgr(new LevelLoader());
+        this.LevelMgr.LoadLevel(LevelMgr.kLevelMapFile);
+
+        this.GameNode.SetActiveEx(true);
     }
 
     private void OnApplicationQuit()

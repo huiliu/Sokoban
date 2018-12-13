@@ -16,7 +16,6 @@ namespace Sokoban.Client
         [SerializeField] private ResultComponent ResultComponent;
         [SerializeField] private MapComponent MapComponent;
 
-        private LevelMgr LevelMgr;
         private LevelComponentEx LevelComponentEx;
         private StatusComponent StatusComponent;
         private InputComponent InputComponent;
@@ -27,14 +26,12 @@ namespace Sokoban.Client
             this.InputComponent = this.InputMgr.GetComponent<InputComponent>();
             this.LevelComponentEx = this.LevelNode.GetComponentInChildren<LevelComponentEx>(true);
             this.LevelComponentEx.OnStartGame += OnStartGame;
+            this.LevelComponentEx.ShowLevels(this.TotalLevelCount);
+
             this.MapComponent.OnWin += OnWin;
 
             this.ResultComponent.OnReturn = () => this.BackToLevel();
             this.ResultComponent.OnNext = () => this.OnStartGame(this.CurrentMap.LevelID + 1);
-
-            this.LevelMgr = new LevelMgr(new LevelLoader());
-            this.LevelMgr.LoadLevel(LevelMgr.kLevelMapFile);
-            this.LevelComponentEx.ShowLevels(this.TotalLevelCount);
 
             this.SwitchUI(false);
         }
@@ -52,7 +49,7 @@ namespace Sokoban.Client
             this.IsRunning = false;
         }
 
-        public int TotalLevelCount { get { return this.LevelMgr.Maps.Count; } }
+        public int TotalLevelCount { get { return Bootstrap.Instance.LevelMgr.Maps.Count; } }
         public int StepCount { get { return this.CommandMgr.CommandCount; } }
         public LevelMap CurrentMap { get; private set; }
         private bool IsRunning;
@@ -60,7 +57,7 @@ namespace Sokoban.Client
         private void OnStartGame(int levelID)
         {
             this.IsRunning = true;
-            this.CurrentMap = this.LevelMgr.GetLevelMap(levelID);
+            this.CurrentMap = Bootstrap.Instance.LevelMgr.GetLevelMap(levelID);
             this.MapComponent.SetupMap(this.CurrentMap);
             this.Pusher = this.CurrentMap.Pusher;
 

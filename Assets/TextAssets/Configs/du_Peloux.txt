@@ -152,9 +152,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 01 / 02 / 03
 Sous Titre : Petites roues (Little wheels)
-Difficulté : 0,5 / 1,5 / 3
-Date de création : 2001
-Commentaire : Inspiré de MicroCosmos 31 qui est la suite presque logique.
+DifficultÃ© : 0,5 / 1,5 / 3
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ© de MicroCosmos 31 qui est la suite presque logique.
 
 Solution/Moves (Built-in)
 uuluuRlddrrruruullDDullddrRlddrruUluR
@@ -180,9 +180,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 01 / 02 / 03
 Sous Titre : Petites roues (Little wheels)
-Difficulté : 0,5 / 1,5 / 3
-Date de création : 2001
-Commentaire : Inspiré de MicroCosmos 31 qui est la suite presque logique.
+DifficultÃ© : 0,5 / 1,5 / 3
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ© de MicroCosmos 31 qui est la suite presque logique.
 
 Solution/Pushes (Built-in)
 rruullluuRlddrrruruullDDullddrRurrrddlldllUdrruUluullddRRuRD
@@ -208,9 +208,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 01 / 02 / 03
 Sous Titre : Petites roues (Little wheels)
-Difficulté : 0,5 / 1,5 / 3
-Date de création : 2001
-Commentaire : Inspiré de MicroCosmos 31 qui est la suite presque logique.
+DifficultÃ© : 0,5 / 1,5 / 3
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ© de MicroCosmos 31 qui est la suite presque logique.
 
 Solution/Pushes (Built-in)
 rruullluuRlddrrrddllUdrruuuruullDllddRRlddrruUllluurrurrddrddLruuluull
@@ -238,9 +238,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 04 / 05 / 06
 Sous Titre : 4 portes (4 doors)
-Difficulté : 1 / 2 / 3
-Date de création : 2001
-Commentaire : Des thèmes assez courant sont abordés : la porte (en haut à gauche et en bas à gauche), le coin (en haut à droite).
+DifficultÃ© : 1 / 2 / 3
+Date de crÃ©ation : 2001
+Commentaire : Des thÃ¨mes assez courant sont abordÃ©s : la porte (en haut Ã  gauche et en bas Ã  gauche), le coin (en haut Ã  droite).
 
 Solution/Pushes (Built-in)
 uuuruRldlddrrruuruulDDDuulldlddrrdrruLLLrruuulldldDlddrUUUdrrruuulllld
@@ -268,9 +268,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 04 / 05 / 06
 Sous Titre : 4 portes (4 doors)
-Difficulté : 1 / 2 / 3
-Date de création : 2001
-Commentaire : Des thèmes assez courant sont abordés : la porte (en haut à gauche et en bas à gauche), le coin (en haut à droite).
+DifficultÃ© : 1 / 2 / 3
+Date de crÃ©ation : 2001
+Commentaire : Des thÃ¨mes assez courant sont abordÃ©s : la porte (en haut Ã  gauche et en bas Ã  gauche), le coin (en haut Ã  droite).
 
 Solution/Pushes (Built-in)
 uuUruRldlddrrruuruulDDDuulldlluRRRldlddrrdrruLLLrruuruulDDDuulldldDldd
@@ -298,9 +298,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 04 / 05 / 06
 Sous Titre : 4 portes (4 doors)
-Difficulté : 1 / 2 / 3
-Date de création : 2001
-Commentaire : Des thèmes assez courant sont abordés : la porte (en haut à gauche et en bas à gauche), le coin (en haut à droite).
+DifficultÃ© : 1 / 2 / 3
+Date de crÃ©ation : 2001
+Commentaire : Des thÃ¨mes assez courant sont abordÃ©s : la porte (en haut Ã  gauche et en bas Ã  gauche), le coin (en haut Ã  droite).
 
 Solution/Pushes (Built-in)
 luRuUruRldlddRRdrruLLLrruuruulDDDuulldlluRRRldldDlddrUUUdrrdrruLLLrruu
@@ -328,9 +328,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 07 / 08
 Sous Titre : Arbres (Trees)
-Difficulté : 1,5 / 3,5
-Date de création : 2001
-Commentaire : Je suis parti du thème initial de MicroCosmos 27.
+DifficultÃ© : 1,5 / 3,5
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti du thÃ¨me initial de MicroCosmos 27.
 
 Solution/Pushes (Built-in)
 lulluRRRlluurrDrDLLddrrUruLLuulldDldRuuurrddLruulldDrDLrurrddddlluU
@@ -357,9 +357,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 07 / 08
 Sous Titre : Arbres (Trees)
-Difficulté : 1,5 / 3,5
-Date de création : 2001
-Commentaire : Je suis parti du thème initial de MicroCosmos 27.
+DifficultÃ© : 1,5 / 3,5
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti du thÃ¨me initial de MicroCosmos 27.
 
 Solution/Pushes (Built-in)
 luurrDDllulluRRRlluurrDrDLLddrrUruLLuulldDldRuuurrddLruulldDrrrddllddr
@@ -386,8 +386,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 09 / 10
 Sous Titre : Piscines (Pools)
-Difficulté : 2 / 3,5
-Date de création : 2001
+DifficultÃ© : 2 / 3,5
+Date de crÃ©ation : 2001
 Commentaire : Il y a la piscine pour les petits, et pour les grands ...
 
 Solution/Pushes (Built-in)
@@ -415,8 +415,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 09 / 10
 Sous Titre : Piscines (Pools)
-Difficulté : 2 / 3,5
-Date de création : 2001
+DifficultÃ© : 2 / 3,5
+Date de crÃ©ation : 2001
 Commentaire : Il y a la piscine pour les petits, et pour les grands...
 
 Solution/Pushes (Built-in)
@@ -444,8 +444,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 11 / 12
 Sous Titre : ...
-Difficulté : 2 / 3,5
-Date de création : 2001
+DifficultÃ© : 2 / 3,5
+Date de crÃ©ation : 2001
 Commentaire : Dans mes niveaux, le chemin le plus court est rarement le bon.
 
 Solution/Pushes (Built-in)
@@ -473,8 +473,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 11 / 12
 Sous Titre : ...
-Difficulté : 2 / 3,5
-Date de création : 2001
+DifficultÃ© : 2 / 3,5
+Date de crÃ©ation : 2001
 Commentaire : Dans mes niveaux, le chemin le plus court est rarement le bon.
 
 Solution/Pushes (Built-in)
@@ -503,8 +503,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 13 / 14
 Sous Titre : Petits Donjons (Little Dongeon)
-Difficulté : 2 / 4
-Date de création : 2001
+DifficultÃ© : 2 / 4
+Date de crÃ©ation : 2001
 Commentaire : Visitez aussi le donjon original MicroCosmos 16.
 
 Solution/Pushes (Built-in)
@@ -533,8 +533,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 13 / 14
 Sous Titre : Petits Donjons (Little Dongeon)
-Difficulté : 2 / 4
-Date de création : 2001
+DifficultÃ© : 2 / 4
+Date de crÃ©ation : 2001
 Commentaire : Visitez aussi le donjon original MicroCosmos 16.
 
 Solution/Pushes (Built-in)
@@ -562,9 +562,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 15 / 16
 Sous Titre : Petit moulin (Little windmill)
-Difficulté : 2 / 4
-Date de création : 2001
-Commentaire : Inspiré de MicroCosmos 09, qui utilise à fond le thème du coin.
+DifficultÃ© : 2 / 4
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ© de MicroCosmos 09, qui utilise Ã  fond le thÃ¨me du coin.
 
 Solution/Pushes (Built-in)
 uuluRRdlddrrurrdLLLdlUUUruRurDDulldlddrrrruLdllluuluRRRurDDDrdLLLdlUUd
@@ -591,9 +591,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 15 / 16
 Sous Titre : Petit moulin (Little windmill)
-Difficulté : 2 / 4
-Date de création : 2001
-Commentaire : Inspiré de MicroCosmos 09, qui utilise à fond le thème du coin.
+DifficultÃ© : 2 / 4
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ© de MicroCosmos 09, qui utilise Ã  fond le thÃ¨me du coin.
 
 Solution/Pushes (Built-in)
 rrurrdLLLdlluRuuruRurDDDldLrurrdLLruuulldldDuuluRRRurDDDldLdLUUdrruruu
@@ -621,9 +621,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 17 / 18
 Sous Titre : Escaliers (stairs)
-Difficulté : 1,5 / 4
-Date de création : 2001
-Commentaire : Un thème classique qu'on retrouve dans MicroCosmos 28, MicroCosmos 30 et NaboKosmos 04.
+DifficultÃ© : 1,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Un thÃ¨me classique qu'on retrouve dans MicroCosmos 28, MicroCosmos 30 et NaboKosmos 04.
 
 Solution/Pushes (Built-in)
 ldllldlddrUrUdlluRuRlddrUrUdlluRuRRdLruuurrddLruulldlddrUllDrdLulD
@@ -650,9 +650,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 17 / 18
 Sous Titre : Escaliers (stairs)
-Difficulté : 1,5 / 4
-Date de création : 2001
-Commentaire : Un thème classique qu'on retrouve dans MicroCosmos 28, MicroCosmos 30 et NaboKosmos 04.
+DifficultÃ© : 1,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Un thÃ¨me classique qu'on retrouve dans MicroCosmos 28, MicroCosmos 30 et NaboKosmos 04.
 
 Solution/Pushes (Built-in)
 llldldlddrUrUrUdldlluRuRuRRRllldlddrUrUdlluRuRRdLulDrdLulDrruruuurrdrd
@@ -680,9 +680,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 19 / 20
 Sous Titre : Petits sabliers (Little Sand glasses)
-Difficulté : 1,5 / 4
-Date de création : 2001
-Commentaire : Relativement semblable aux 2 tableaux suivants, mais avec une astuce différente.
+DifficultÃ© : 1,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Relativement semblable aux 2 tableaux suivants, mais avec une astuce diffÃ©rente.
 
 Solution/Pushes (Built-in)
 llUUUruLddddlluRdrUUUlluurDldRuRDDDldRRluuurruLLdlluurDldRurDDDrdLrdrr
@@ -710,9 +710,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 19 / 20
 Sous Titre : Petits sabliers (Little Sand glasses)
-Difficulté : 1,5 / 4
-Date de création : 2001
-Commentaire : Relativement semblable aux 2 tableaux suivants, mais avec une astuce différente.
+DifficultÃ© : 1,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Relativement semblable aux 2 tableaux suivants, mais avec une astuce diffÃ©rente.
 
 Solution/Pushes (Built-in)
 llUUUruLddddlluRdrUUUlluurDldRuRDrruLLdDDldRRdrruLuLLdlluRdrRlUUUlluur
@@ -740,9 +740,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 21 / 22
 Sous Titre : Petits sabliers II (Little Sand glasses II)
-Difficulté : 2 / 4,5
-Date de création : 2001
-Commentaire : Celui de droite était la première maquette de NaboKosmos 19.
+DifficultÃ© : 2 / 4,5
+Date de crÃ©ation : 2001
+Commentaire : Celui de droite Ã©tait la premiÃ¨re maquette de NaboKosmos 19.
 
 Solution/Pushes (Built-in)
 rruUUruLdlluurDldRurDDDLdlluRRddrruLUUUruLdlluurDldRurDDDDLdRluulldRur
@@ -770,9 +770,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 21 / 22
 Sous Titre : Petits sabliers II (Little Sand glasses II)
-Difficulté : 2 / 4,5
-Date de création : 2001
-Commentaire : Celui de droite était la première maquette de NaboKosmos 19.
+DifficultÃ© : 2 / 4,5
+Date de crÃ©ation : 2001
+Commentaire : Celui de droite Ã©tait la premiÃ¨re maquette de NaboKosmos 19.
 
 Solution/Pushes (Built-in)
 rruUUruLLulldRdRluurDrDDDLdlluRRddrruLLrUUUruLLulldRdRluurDrDDDDuuuull
@@ -800,9 +800,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 23 / 24
 Sous Titre : Pistolets (Guns)
-Difficulté : 2 / 4,5
-Date de création : 2001
-Commentaire : Les évidences sont trompeuses ...
+DifficultÃ© : 2 / 4,5
+Date de crÃ©ation : 2001
+Commentaire : Les Ã©vidences sont trompeuses ...
 
 Solution/Pushes (Built-in)
 uuulldLullddrUluRRRRRRurDDDuulldddddrruruLLrddllulullUUluRRRRRurDDDuul
@@ -830,9 +830,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 23 / 24
 Sous Titre : Pistolets (Guns)
-Difficulté : 2 / 4,5
-Date de création : 2001
-Commentaire : Les évidences sont trompeuses ...
+DifficultÃ© : 2 / 4,5
+Date de crÃ©ation : 2001
+Commentaire : Les Ã©vidences sont trompeuses ...
 
 Solution/Pushes (Built-in)
 uuulldLrurrdddlllUdrrruuulllllddRUluRRRdLruRRRurDDDuulldddddrruruLLrdd
@@ -861,9 +861,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 25 / 26
 Sous Titre : Paires (Pairs)
-Difficulté : 1,5 / 4,5
-Date de création : 2001
-Commentaire : Je suis parti de MicroCosmos 15. A l'arrivée c'est pas flagrant.
+DifficultÃ© : 1,5 / 4,5
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti de MicroCosmos 15. A l'arrivÃ©e c'est pas flagrant.
 
 Solution/Pushes (Built-in)
 uullDDuurrdddlLLdlluRuuRlddRRRdrruLuuullDllddrrRdrUUUruLdddlllluurrDul
@@ -891,9 +891,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 25 / 26
 Sous Titre : Paires (Pairs)
-Difficulté : 1,5 / 4,5
-Date de création : 2001
-Commentaire : Je suis parti de MicroCosmos 15. A l'arrivée c'est pas flagrant.
+DifficultÃ© : 1,5 / 4,5
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti de MicroCosmos 15. A l'arrivÃ©e c'est pas flagrant.
 
 Solution/Pushes (Built-in)
 dllLdlluRRRRdrUUUruulDllDDuurrDDDrddlUUlLLdlluRuuRlddRRRdrruLUUruulDll
@@ -920,10 +920,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 27 / 28
-Sous Titre : Petits manèges (Little horse-gear)
-Difficulté : 2,5 / 5
-Date de création : 2001
-Commentaire : MiniCosmos 28 est plutôt corriace pour un 3-caisses. Dans le même style, allez voir NaboKosmos 10.
+Sous Titre : Petits manÃ¨ges (Little horse-gear)
+DifficultÃ© : 2,5 / 5
+Date de crÃ©ation : 2001
+Commentaire : MiniCosmos 28 est plutÃ´t corriace pour un 3-caisses. Dans le mÃªme style, allez voir NaboKosmos 10.
 
 Solution/Pushes (Built-in)
 ruUUlulldDuurrdrdddldllluuRRdrruuuruLLLulDDDuurrrddddlluRdrUUddldllluu
@@ -950,10 +950,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 27 / 28
-Sous Titre : Petits manèges (Little horse-gear)
-Difficulté : 2,5 / 5
-Date de création : 2001
-Commentaire : MiniCosmos 28 est plutôt corriace pour un 3-caisses. Dans le même style, allez voir NaboKosmos 10.
+Sous Titre : Petits manÃ¨ges (Little horse-gear)
+DifficultÃ© : 2,5 / 5
+Date de crÃ©ation : 2001
+Commentaire : MiniCosmos 28 est plutÃ´t corriace pour un 3-caisses. Dans le mÃªme style, allez voir NaboKosmos 10.
 
 Solution/Pushes (Built-in)
 rruLUUlulldDuurrdrdddlluRddllluuRuuurrdrdDrdLLdllluurRRlluuurrdrruLLLu
@@ -982,9 +982,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 29 / 30
 Sous Titre : Bugs
-Difficulté : 1,5 / 5
-Date de création : 2001
-Commentaire : MiniCosmos 30 est peut-être le 3-caisses le plus difficile de la série.
+DifficultÃ© : 1,5 / 5
+Date de crÃ©ation : 2001
+Commentaire : MiniCosmos 30 est peut-Ãªtre le 3-caisses le plus difficile de la sÃ©rie.
 
 Solution/Pushes (Built-in)
 llUUruuullddlddRluurRdrUUddrddllUUdlluurRluurRdDurruulDrdL
@@ -1011,9 +1011,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 29 / 30
 Sous Titre : Bugs
-Difficulté : 1,5 / 5
-Date de création : 2001
-Commentaire : MiniCosmos 30 est peut-être le 3-caisses le plus difficile de la série.
+DifficultÃ© : 1,5 / 5
+Date de crÃ©ation : 2001
+Commentaire : MiniCosmos 30 est peut-Ãªtre le 3-caisses le plus difficile de la sÃ©rie.
 
 Solution/Pushes (Built-in)
 llUUddrruuLuuullddRDrUUdlluurRdddrddllUUruuullddlddRluuruurrdrruLLLulD
@@ -1041,9 +1041,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 31 / 32
 Sous Titre : Dominos 2
-Difficulté : 2 / 2,5
-Date de création : 2001
-Commentaire : Inspirés directement des MicroCosmos 07 et MicroCosmos 14.
+DifficultÃ© : 2 / 2,5
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ©s directement des MicroCosmos 07 et MicroCosmos 14.
 
 Solution/Pushes (Built-in)
 lluuurrdrDrdLuululldddddrrrUULLuluurrdrDrdLddllluUUdddrrruuLLulDrrruul
@@ -1070,9 +1070,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 31 / 32
 Sous Titre : Dominos 2
-Difficulté : 2 / 2,5
-Date de création : 2001
-Commentaire : Inspirés directement des MicroCosmos 07 et MicroCosmos 14.
+DifficultÃ© : 2 / 2,5
+Date de crÃ©ation : 2001
+Commentaire : InspirÃ©s directement des MicroCosmos 07 et MicroCosmos 14.
 
 Solution/Pushes (Built-in)
 luurrDrdLuullddddrrUULrddlluUUluurDrrDrdLddlluuUluRddddrruuLrddlluUUlu
@@ -1097,10 +1097,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 33 / 34
-Sous Titre : Demi-Pommes écrasées (Crushed Half Apples)
-Difficulté : 3,5 / 3,5
-Date de création : 2001
-Commentaire : Le thème rotatif et le thème des faux-jumeaux, comme pour NaboKosmos 14 et 15.
+Sous Titre : Demi-Pommes Ã©crasÃ©es (Crushed Half Apples)
+DifficultÃ© : 3,5 / 3,5
+Date de crÃ©ation : 2001
+Commentaire : Le thÃ¨me rotatif et le thÃ¨me des faux-jumeaux, comme pour NaboKosmos 14 et 15.
 
 Solution/Pushes (Built-in)
 lluuurDlddrrruruulDLLulDDlddrUrUdrrUruulDlLddrrUdlluurRddlllluRdrrruul
@@ -1125,10 +1125,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 33 / 34
-Sous Titre : Demi-Pommes écrasées (Crushed Half Apples)
-Difficulté : 3,5 / 3,5
-Date de création : 2001
-Commentaire : Le thème rotatif et le thème des faux-jumeaux, comme pour NaboKosmos 14 et 15.
+Sous Titre : Demi-Pommes Ã©crasÃ©es (Crushed Half Apples)
+DifficultÃ© : 3,5 / 3,5
+Date de crÃ©ation : 2001
+Commentaire : Le thÃ¨me rotatif et le thÃ¨me des faux-jumeaux, comme pour NaboKosmos 14 et 15.
 
 Solution/Pushes (Built-in)
 rruuulDrddllluluurDRRurDDrddlUlUdllUluurDrRddllUdrruulLrrddrruLdllluur
@@ -1154,9 +1154,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 35 / 36 / 37
 Sous Titre : Petits dominos 2-1 (Little dominos 2-1)
-Difficulté : 3 / 3,5 / 4
-Date de création : 2001
-Commentaire : Je suis parti du thème de NaboKosmos 02, tout en cherchant à développer différentes solutions. MiniCosmos 37 va peut-être en dérouter certains.
+DifficultÃ© : 3 / 3,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti du thÃ¨me de NaboKosmos 02, tout en cherchant Ã  dÃ©velopper diffÃ©rentes solutions. MiniCosmos 37 va peut-Ãªtre en dÃ©router certains.
 
 Solution/Pushes (Built-in)
 dlLuluurDllldddrrUrrruuLLLrrrddlllUdrrruullDldRuuulDrddldlluuuRRurDDul
@@ -1183,9 +1183,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 35 / 36 / 37
 Sous Titre : Petits dominos 2-1 (Little dominos 2-1)
-Difficulté : 3 / 3,5 / 4
-Date de création : 2001
-Commentaire : Je suis parti du thème de NaboKosmos 02, tout en cherchant à développer différentes solutions. MiniCosmos 37 va peut-être en dérouter certains.
+DifficultÃ© : 3 / 3,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti du thÃ¨me de NaboKosmos 02, tout en cherchant Ã  dÃ©velopper diffÃ©rentes solutions. MiniCosmos 37 va peut-Ãªtre en dÃ©router certains.
 
 Solution/Pushes (Built-in)
 dlLdlUUUlluurrDrDLddrrruuLLDldRuuulDuullddRRDrddlUUUlluurrDrDDuululldd
@@ -1213,9 +1213,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MiniCosmos 35 / 36 / 37
 Sous Titre : Petits dominos 2-1 (Little dominos 2-1)
-Difficulté : 3 / 3,5 / 4
-Date de création : 2001
-Commentaire : Je suis parti du thème de NaboKosmos 02, tout en cherchant à développer différentes solutions. MiniCosmos 37 va peut-être en dérouter certains.
+DifficultÃ© : 3 / 3,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : Je suis parti du thÃ¨me de NaboKosmos 02, tout en cherchant Ã  dÃ©velopper diffÃ©rentes solutions. MiniCosmos 37 va peut-Ãªtre en dÃ©router certains.
 
 Solution/Pushes (Built-in)
 dlLuUllddRluurrdDrruuLrddlllluuruRDDurrddlLuuuurDldddrruuLrddlluUddrdd
@@ -1241,10 +1241,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 38 / 39 / 40
-Sous Titre : Petits Triplés (Little triplets)
-Difficulté : 3 / 3,5 / 4
-Date de création : 2001
-Commentaire : Malgré le design initial similaire, les solutions n'ont rien à voir. Celui du milieu est inspiré de MicroCosmos 38.
+Sous Titre : Petits TriplÃ©s (Little triplets)
+DifficultÃ© : 3 / 3,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : MalgrÃ© le design initial similaire, les solutions n'ont rien Ã  voir. Celui du milieu est inspirÃ© de MicroCosmos 38.
 
 Solution/Pushes (Built-in)
 drrrUruLLDrdLLdlluRuRRdLruuulDDrdrUruLdlllDRllddrU
@@ -1270,10 +1270,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 38 / 39 / 40
-Sous Titre : Petits Triplés (Little triplets)
-Difficulté : 3 / 3,5 / 4
-Date de création : 2001
-Commentaire : Malgré le design initial similaire, les solutions n'ont rien à voir. Celui du milieu est inspiré de MicroCosmos 38.
+Sous Titre : Petits TriplÃ©s (Little triplets)
+DifficultÃ© : 3 / 3,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : MalgrÃ© le design initial similaire, les solutions n'ont rien Ã  voir. Celui du milieu est inspirÃ© de MicroCosmos 38.
 
 Solution/Pushes (Built-in)
 ddrruUUdddrruuLrddlllluuuururrdLdDrrddlllluuuuRurDllddddrrrruullLrrrdd
@@ -1299,10 +1299,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MiniCosmos 38 / 39 / 40
-Sous Titre : Petits Triplés (Little triplets)
-Difficulté : 3 / 3,5 / 4
-Date de création : 2001
-Commentaire : Malgré le design initial similaire, les solutions n'ont rien à voir. Celui du milieu est inspiré de MicroCosmos 38.
+Sous Titre : Petits TriplÃ©s (Little triplets)
+DifficultÃ© : 3 / 3,5 / 4
+Date de crÃ©ation : 2001
+Commentaire : MalgrÃ© le design initial similaire, les solutions n'ont rien Ã  voir. Celui du milieu est inspirÃ© de MicroCosmos 38.
 
 Solution/Pushes (Built-in)
 drrUdlluRuRDldlddrrurruuLLulDrrrddllULrdrruulLuurDllDrddrruuLrddlluUll
@@ -1328,9 +1328,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 01
 Sous Titre : Coeur (Heart)
-Difficulté : 4
-Date de création : 1999
-Commentaire : J'ai créé ce niveau en juillet 1999. Je l'ai dédicacé à ma femme (devinez pourquoi  !). Elle l'a résolu en à peu près 5 mn. Ferez-vous mieux ?
+DifficultÃ© : 4
+Date de crÃ©ation : 1999
+Commentaire : J'ai crÃ©Ã© ce niveau en juillet 1999. Je l'ai dÃ©dicacÃ© Ã  ma femme (devinez pourquoi  !). Elle l'a rÃ©solu en Ã  peu prÃ¨s 5 mn. Ferez-vous mieux ?
 
 Solution/Pushes (Built-in)
 rrruulDrdLLuLDlddrrUdlluurDuurrdLulDllluurDRlldRR
@@ -1354,9 +1354,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 02
 Sous Titre : F5
-Difficulté : 3,5
-Date de création : 1996
-Commentaire : Crée à Londres en 1996. A cet époque, je ne connaissais que les 25 "originaux", et je pensais alors être original en créant de petits tableaux ! Par la suite, j'ai découvert les petits niveaux de Thinking Rabbit, Murase, Skinner et beaucoup d'autres ... Et j'en ai mis pas mal des miens à la poubelle ;) Il n'en reste que MicroCosmos 02, 03, 06,16.
+DifficultÃ© : 3,5
+Date de crÃ©ation : 1996
+Commentaire : CrÃ©e Ã  Londres en 1996. A cet Ã©poque, je ne connaissais que les 25 "originaux", et je pensais alors Ãªtre original en crÃ©ant de petits tableaux ! Par la suite, j'ai dÃ©couvert les petits niveaux de Thinking Rabbit, Murase, Skinner et beaucoup d'autres ... Et j'en ai mis pas mal des miens Ã  la poubelle ;) Il n'en reste que MicroCosmos 02, 03, 06,16.
 
 Solution/Pushes (Built-in)
 luuurDrrddrUrrRRRuRRRdrruLulDlllddrUluRRRurDllldllllllluurDldRRRRRRdrU
@@ -1386,9 +1386,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 03
 Sous Titre : Three
-Difficulté : 4
-Date de création : 1996
-Commentaire : A cette époque, j'avais mis 3 copains dessus (qui ne connaissais pas le jeu). Ils ont donné leur langue au chat au bout d'un quart d'heure ...
+DifficultÃ© : 4
+Date de crÃ©ation : 1996
+Commentaire : A cette Ã©poque, j'avais mis 3 copains dessus (qui ne connaissais pas le jeu). Ils ont donnÃ© leur langue au chat au bout d'un quart d'heure ...
 
 Solution/Pushes (Built-in)
 lluuurRRllldddrrrrruuuululLDurrdrddlUlLuurrDrdLrdddllllluuuuuRRddLruul
@@ -1412,10 +1412,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 04
-Sous Titre : Pied à coulisse (Foot-with-slide ?)
-Difficulté : 3
-Date de création : 1999
-Commentaire : Thème très connu. Peut surprendre si on ne le connait pas.
+Sous Titre : Pied Ã  coulisse (Foot-with-slide ?)
+DifficultÃ© : 3
+Date de crÃ©ation : 1999
+Commentaire : ThÃ¨me trÃ¨s connu. Peut surprendre si on ne le connait pas.
 
 Solution/Pushes (Built-in)
 rrrruulDrdLLLuRdldlluuRRlldlluRRddrruLLrrrrruulDrdLLLuRdrruulDrdLulldd
@@ -1442,10 +1442,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 05
-Sous Titre : Château (Castle)
-Difficulté : 6
-Date de création : 1999
-Commentaire : Un niveau que j'aime moins. Juste une astuce à trouver ... Mais il faut la trouver.
+Sous Titre : ChÃ¢teau (Castle)
+DifficultÃ© : 6
+Date de crÃ©ation : 1999
+Commentaire : Un niveau que j'aime moins. Juste une astuce Ã  trouver ... Mais il faut la trouver.
 
 Solution/Pushes (Built-in)
 RlddRdrruLuUUruulDDDlluuRlddddLdlluRuuuuRRddLrddLdlluRuUrrddLdlUrrRdrr
@@ -1472,9 +1472,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 06
 Sous Titre : Croix I (Cross I)
-Difficulté : 7,5
-Date de création : 1996
-Commentaire : Un niveau que j'affectionne beaucoup. Parce que c'est un de mes premiers, et parce qu'il résiste bien.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 1996
+Commentaire : Un niveau que j'affectionne beaucoup. Parce que c'est un de mes premiers, et parce qu'il rÃ©siste bien.
 
 Solution/Pushes (Built-in)
 lllluRdrrruululLDDlluRUrDurrdLulldddRRRlUULDlluRdrruruLuullDDDldR
@@ -1501,8 +1501,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 07
 Sous Titre : Domino 3
-Difficulté : 3,5
-Date de création : 1999
+DifficultÃ© : 3,5
+Date de crÃ©ation : 1999
 Commentaire : Un niveau assez simple.
 
 Solution/Pushes (Built-in)
@@ -1530,8 +1530,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 08
 Sous Titre : Avion (Plane)
-Difficulté : 6,5
-Date de création : 1999
+DifficultÃ© : 6,5
+Date de crÃ©ation : 1999
 Commentaire : Euh ... Moi je trouve qu'on dirait un avion ...
 
 Solution/Pushes (Built-in)
@@ -1560,9 +1560,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 09
 Sous Titre : Moulin (Windmill)
-Difficulté : 6
-Date de création : 1999
-Commentaire : Quand je l'ai créé, j'ai eu peur qu'on l'ai inventé avant moi. C'est un thème que j'aime beaucoup, et que j'ai souvent réutilisé par la suite (MicroCosmos 18, MicroCosmos 25, MicroCosmos 37 ou encore NaboKosmos 10). Tourne, tourne petit moulin ...
+DifficultÃ© : 6
+Date de crÃ©ation : 1999
+Commentaire : Quand je l'ai crÃ©Ã©, j'ai eu peur qu'on l'ai inventÃ© avant moi. C'est un thÃ¨me que j'aime beaucoup, et que j'ai souvent rÃ©utilisÃ© par la suite (MicroCosmos 18, MicroCosmos 25, MicroCosmos 37 ou encore NaboKosmos 10). Tourne, tourne petit moulin ...
 
 Solution/Pushes (Built-in)
 ldlUUrdrrurrdLLruuuluurDDlulldlluRRRRdrDDldLLulUdrdrrurrdLLruuuluurDDl
@@ -1594,9 +1594,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 10
 Sous Titre : Champignon (Mushroom)
-Difficulté : 3,5
-Date de création : 1999
-Commentaire : La difficulté est dans le rangement final.
+DifficultÃ© : 3,5
+Date de crÃ©ation : 1999
+Commentaire : La difficultÃ© est dans le rangement final.
 
 Solution/Pushes (Built-in)
 rddLruulldDrruuuuulldDRluurrdDrdLddlluUddrruuuuulldldRRluurrdDlldddDDr
@@ -1623,8 +1623,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 11
 Sous Titre : Allumette (Match)
-Difficulté : 6,5
-Date de création : 1999
+DifficultÃ© : 6,5
+Date de crÃ©ation : 1999
 Commentaire : Mon premier One-box-move. Pas aussi difficile qu'il en a l'air.
 
 Solution/Pushes (Built-in)
@@ -1654,9 +1654,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 12
 Sous Titre : Ampoule (Bulb)
-Difficulté : 4,5
-Date de création : 1999
-Commentaire : Je me suis inspiré du design d'un des niveaux de Takaken pour créer celui-là. Cela reste assez facile.
+DifficultÃ© : 4,5
+Date de crÃ©ation : 1999
+Commentaire : Je me suis inspirÃ© du design d'un des niveaux de Takaken pour crÃ©er celui-lÃ . Cela reste assez facile.
 
 Solution/Pushes (Built-in)
 uluuRDDluuUluurDurrdLDDDuuurrdLulDuullddRddrrUULDruruLulDDuulldRldR
@@ -1681,10 +1681,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 13
-Sous Titre : Tête de mort (Death head)
-Difficulté : 6
-Date de création : 1999
-Commentaire : C'est une disposition de murs isolés qui entraînent des blocages amusants en chaîne. Il faut débloquer dans l'ordre. Encore un thème que j'ai réutilisé plusieurs fois (MicroCosmos 31, MicroCosmos 32, MicroCosmos 33).
+Sous Titre : TÃªte de mort (Death head)
+DifficultÃ© : 6
+Date de crÃ©ation : 1999
+Commentaire : C'est une disposition de murs isolÃ©s qui entraÃ®nent des blocages amusants en chaÃ®ne. Il faut dÃ©bloquer dans l'ordre. Encore un thÃ¨me que j'ai rÃ©utilisÃ© plusieurs fois (MicroCosmos 31, MicroCosmos 32, MicroCosmos 33).
 
 Solution/Pushes (Built-in)
 drrruuLLulDrrrddllUdrruulLddlddrrUdlluuruuulldRurDrrddLddlluuUdddrruur
@@ -1716,9 +1716,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 14
 Sous Titre : Domino 4
-Difficulté : 4
-Date de création : 1999
-Commentaire : Le grand frère de MicroCosmos 07 et de MiniCosmos 32. Légèrement plus difficile.
+DifficultÃ© : 4
+Date de crÃ©ation : 1999
+Commentaire : Le grand frÃ¨re de MicroCosmos 07 et de MiniCosmos 32. LÃ©gÃ¨rement plus difficile.
 
 Solution/Pushes (Built-in)
 uuuurrUruLddlluuuurrDDLruulldDDDrrUruLLrddllDDrrUUddllDlddrUrrUUllDldR
@@ -1747,9 +1747,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 15
 Sous Titre : Doubles paires (Double pairs)
-Difficulté : 5,5
-Date de création : 1999
-Commentaire : J'aime beaucoup ce petit niveau, qui peut résister si on le prend pas par le bon bout.
+DifficultÃ© : 5,5
+Date de crÃ©ation : 1999
+Commentaire : J'aime beaucoup ce petit niveau, qui peut rÃ©sister si on le prend pas par le bon bout.
 
 Solution/Pushes (Built-in)
 lldlluRUUUluRRurDDrdddlLdlUrrrrdrruLLLuurrDullddLLdlluRUUrRRlllUluRRur
@@ -1777,9 +1777,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 16
 Sous Titre : Donjon (Keep)
-Difficulté : 6,5
-Date de création : 1996
-Commentaire : Longtemps ce fut mon meilleur 4-caisses, par son design et sa difficulté. Mon premier niveau "rotatif", et bien sûr pas le dernier !
+DifficultÃ© : 6,5
+Date de crÃ©ation : 1996
+Commentaire : Longtemps ce fut mon meilleur 4-caisses, par son design et sa difficultÃ©. Mon premier niveau "rotatif", et bien sÃ»r pas le dernier !
 
 Solution/Pushes (Built-in)
 llddRdrUlluurruullDDDldRRdrruLUUllddRdrUlluurrrruuLLDuLulDDDrRllDldRRd
@@ -1807,9 +1807,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 17
 Sous Titre : Lapin (Rabbit)
-Difficulté : 6,5
-Date de création : 1999
-Commentaire : Beaucoup de poussées dans ce niveau. Mais la partie intéressante ne vient qu'à la fin.
+DifficultÃ© : 6,5
+Date de crÃ©ation : 1999
+Commentaire : Beaucoup de poussÃ©es dans ce niveau. Mais la partie intÃ©ressante ne vient qu'Ã  la fin.
 
 Solution/Pushes (Built-in)
 rurrDrdLLruulldllddrrUUluuuRRurDDDDrdLLruulLLdlddrrUUllluUluurDRRRRurD
@@ -1836,10 +1836,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 18
-Sous Titre : Cour des cloîtres (Court of the cloisters)
-Difficulté : 6
-Date de création : 08/2000
-Commentaire : J'ai créé ce niveau en 15mn. J'ai rarement autant de chance. Il faut tourner bien sûr, mais quand faut-il s'arreter ?
+Sous Titre : Cour des cloÃ®tres (Court of the cloisters)
+DifficultÃ© : 6
+Date de crÃ©ation : 08/2000
+Commentaire : J'ai crÃ©Ã© ce niveau en 15mn. J'ai rarement autant de chance. Il faut tourner bien sÃ»r, mais quand faut-il s'arreter ?
 
 Solution/Pushes (Built-in)
 dllluurruulDldddrrruruuLLdLDldRuuruulDlDDuurrrrddlddrUUUruLLLdLddRluur
@@ -1867,9 +1867,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 19
 Sous Titre : Lyon-Paris
-Difficulté : 6
-Date de création : 08/2000
-Commentaire : Créé dans le TGV Lyon-Paris (Voir aussi NaboKosmos 29).
+DifficultÃ© : 6
+Date de crÃ©ation : 08/2000
+Commentaire : CrÃ©Ã© dans le TGV Lyon-Paris (Voir aussi NaboKosmos 29).
 
 Solution/Pushes (Built-in)
 lddddlluRdrUrruuulldlDuruulDDrurrdddllUUluRddddlluRdrUUUluurDldDrddllu
@@ -1897,9 +1897,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 20
 Sous Titre : 2 portes (2 doors)
-Difficulté : 7,5
-Date de création : 08/2000
-Commentaire : Initialement, la série s'arrétait sur ce niveau où j'utilise pour la première fois le thème "des portes" (Voir aussi MicroCosmos 26). Visuellement, on devine par où doivent passer les caisses, mais en pratique ...
+DifficultÃ© : 7,5
+Date de crÃ©ation : 08/2000
+Commentaire : Initialement, la sÃ©rie s'arrÃ©tait sur ce niveau oÃ¹ j'utilise pour la premiÃ¨re fois le thÃ¨me "des portes" (Voir aussi MicroCosmos 26). Visuellement, on devine par oÃ¹ doivent passer les caisses, mais en pratique ...
 
 Solution/Pushes (Built-in)
 ddlldLrurrurruulullDDDrddLLuRdrUluuLLulldRRRllddlddrUUUddRRurrdLLLrruu
@@ -1928,9 +1928,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 21
 Sous Titre : 4 omelettes (4 eggs)
-Difficulté : 8
-Date de création : 08/2000
-Commentaire : Je suis parti du thème de MicroCosmos 13, pour le faire passer à 5 caisses et le rendre nettement plus difficile. Mais j'aime peu ce niveau, car le design n'est pas terrible.
+DifficultÃ© : 8
+Date de crÃ©ation : 08/2000
+Commentaire : Je suis parti du thÃ¨me de MicroCosmos 13, pour le faire passer Ã  5 caisses et le rendre nettement plus difficile. Mais j'aime peu ce niveau, car le design n'est pas terrible.
 
 Solution/Pushes (Built-in)
 dldlluuRRdrruuullDDllddrrdrrUUddllulluurrDrrddlldlUrrruullDurrddlLuuuu
@@ -1960,9 +1960,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 22
 Sous Titre : Keno
-Difficulté : 5
-Date de création : 08/2000
-Commentaire : Un de mes niveaux "chorégraphiques" où l'on fait "danser les caisses". Ce sont des niveaux "rotatifs" harmonieux (comme MicroCosmos 09, MicroCosmos 16 ou MicroCosmos 31).
+DifficultÃ© : 5
+Date de crÃ©ation : 08/2000
+Commentaire : Un de mes niveaux "chorÃ©graphiques" oÃ¹ l'on fait "danser les caisses". Ce sont des niveaux "rotatifs" harmonieux (comme MicroCosmos 09, MicroCosmos 16 ou MicroCosmos 31).
 
 Solution/Pushes (Built-in)
 dddllluurRurrrdddLLuUluuurrrDDlLdllluuuRRdDrdddLLdlUUUrRuuulldDldRuuur
@@ -1990,9 +1990,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 23
 Sous Titre : 2 omelettes (2 eggs)
-Difficulté : 6,5
-Date de création : 1999
-Commentaire : Un niveau que j'avais perdu puis retrouvé, qui résiste bien jusqu'aux dernières poussées. Un clin d'oeil au "Scrambled eggs" de Takaken que j'admire.
+DifficultÃ© : 6,5
+Date de crÃ©ation : 1999
+Commentaire : Un niveau que j'avais perdu puis retrouvÃ©, qui rÃ©siste bien jusqu'aux derniÃ¨res poussÃ©es. Un clin d'oeil au "Scrambled eggs" de Takaken que j'admire.
 
 Solution/Pushes (Built-in)
 dddrruuULrdddlluuRlluuurrDDuulldddrddrruUruuLrddlddlluuluuurrDrrddlLrr
@@ -2020,9 +2020,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 24
 Sous Titre : Petite Ours (Small bear)
-Difficulté : 5
-Date de création : 08/2000
-Commentaire : Un niveau pas très difficile et peu de design.
+DifficultÃ© : 5
+Date de crÃ©ation : 08/2000
+Commentaire : Un niveau pas trÃ¨s difficile et peu de design.
 
 Solution/Pushes (Built-in)
 rururuuruulldlDururrddlddldlluRddlllluuruuuRRdrDDuuRuurrddLddLdLUddlll
@@ -2050,9 +2050,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 25
 Sous Titre : Circonflexe (Circumflexe)
-Difficulté : 5
-Date de création : 1999
-Commentaire : Retrouvé in-extrémis avec MicroCosmos 23. Un petit rotatif assez facile.
+DifficultÃ© : 5
+Date de crÃ©ation : 1999
+Commentaire : RetrouvÃ© in-extrÃ©mis avec MicroCosmos 23. Un petit rotatif assez facile.
 
 Solution/Pushes (Built-in)
 urrdddLLdlUlUlldRRRRRuruullllDurrdLrurrddldllULrdrruruullllDurrrrddldl
@@ -2082,9 +2082,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 26
 Sous Titre : 3 portes (3 doors)
-Difficulté : 6,5
-Date de création : 09/2000
-Commentaire : Un niveau amusant à résoudre. Je suis parti de MicroCosmos 20, qui avait plut.
+DifficultÃ© : 6,5
+Date de crÃ©ation : 09/2000
+Commentaire : Un niveau amusant Ã  rÃ©soudre. Je suis parti de MicroCosmos 20, qui avait plut.
 
 Solution/Pushes (Built-in)
 luurrRRdrUlllllddrrUdlluurRRRdrruLUUruulDLLulldRDDDlluRdrrRdrruLLLLLul
@@ -2113,9 +2113,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 27
 Sous Titre : Osselets (Ossicles)
-Difficulté : 6
-Date de création : 09/2000
-Commentaire : Un niveau que j'aime bien, plus par son thème du va-et-vient, que par sa difficulté.
+DifficultÃ© : 6
+Date de crÃ©ation : 09/2000
+Commentaire : Un niveau que j'aime bien, plus par son thÃ¨me du va-et-vient, que par sa difficultÃ©.
 
 Solution/Pushes (Built-in)
 dlLLddrdrruLdldlluluurrurrDDrdLuuullddRluurrdDllulluRRRlluurrDrDLLddrr
@@ -2143,9 +2143,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 28
 Sous Titre : Petit escalier (Small stairs)
-Difficulté : 4
-Date de création : 09/2000
-Commentaire : Le thème de l'escalier. On monte, on descend, ...
+DifficultÃ© : 4
+Date de crÃ©ation : 09/2000
+Commentaire : Le thÃ¨me de l'escalier. On monte, on descend, ...
 
 Solution/Pushes (Built-in)
 ldlluRuRlddllluRRdrrUrUruulDlDlDururrdLdLLuRdrUdllLdlluRRRurrdLdLLuRll
@@ -2172,9 +2172,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 29
 Sous Titre : Ile Corse (Corsica island)
-Difficulté : 5
-Date de création : 09/2000
-Commentaire : Dans un esprit assez proche du précédent, mais un peu plus difficile.
+DifficultÃ© : 5
+Date de crÃ©ation : 09/2000
+Commentaire : Dans un esprit assez proche du prÃ©cÃ©dent, mais un peu plus difficile.
 
 Solution/Pushes (Built-in)
 lddRUrruulDrdLLdlddrUrULrUruulDDlddlluuRuRDrruulDrdLulldlddrrrUULDrdLr
@@ -2203,9 +2203,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 30
 Sous Titre : Grand escalier (Big stairs)
-Difficulté : 6
-Date de création : 09/2000
-Commentaire : Avec ce niveau, je voulais utiliser le thème de l'escalier sans que cela soit trop facile. A vous de juger. (Voir aussi NaboKosmos 04 ou encore MiniCosmos 18).
+DifficultÃ© : 6
+Date de crÃ©ation : 09/2000
+Commentaire : Avec ce niveau, je voulais utiliser le thÃ¨me de l'escalier sans que cela soit trop facile. A vous de juger. (Voir aussi NaboKosmos 04 ou encore MiniCosmos 18).
 
 Solution/Pushes (Built-in)
 ldddrrrDullluuulldddRRRdRdRdrruLuLuLuLrdrdrddlUlUlUlUUddlluuururrdLddd
@@ -2234,9 +2234,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 31
 Sous Titre : Roue (Wheel)
-Difficulté : 5
-Date de création : 09/2000
-Commentaire : Petit niveau que j'affectionne particulièrement. Un thème amusant qui marquera le début de la série MiniCosmos.
+DifficultÃ© : 5
+Date de crÃ©ation : 09/2000
+Commentaire : Petit niveau que j'affectionne particuliÃ¨rement. Un thÃ¨me amusant qui marquera le dÃ©but de la sÃ©rie MiniCosmos.
 
 Solution/Pushes (Built-in)
 rruuLuullDllddRRlddrrdrUllluuluurrDuurrddLDDuurrddLdLUrruuluulldllddrd
@@ -2263,10 +2263,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 32
-Sous Titre : Roue cassée (Broken Wheel)
-Difficulté : 6,5
-Date de création : 09/2000
-Commentaire : Faux jumeau du précédent, même si créé presque en même temps.
+Sous Titre : Roue cassÃ©e (Broken Wheel)
+DifficultÃ© : 6,5
+Date de crÃ©ation : 09/2000
+Commentaire : Faux jumeau du prÃ©cÃ©dent, mÃªme si crÃ©Ã© presque en mÃªme temps.
 
 Solution/Pushes (Built-in)
 luullddRdrUrrruuLLddlddrrUdlluuruuLDDruuruullDDrddllluuRRDrdLuuuurrddr
@@ -2293,10 +2293,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 33
-Sous Titre : Grande tête de mort (Big death head)
-Difficulté : 7,5
-Date de création : 10/2000
-Commentaire : Plusieurs petits blocages à résoudre. Le grand frère de MicroCosmos 13.
+Sous Titre : Grande tÃªte de mort (Big death head)
+DifficultÃ© : 7,5
+Date de crÃ©ation : 10/2000
+Commentaire : Plusieurs petits blocages Ã  rÃ©soudre. Le grand frÃ¨re de MicroCosmos 13.
 
 Solution/Pushes (Built-in)
 dllldRddrrUULrddlluUrrddrddllUdrruuluullddRRuuluurDDDuurrddLDLUUdrruul
@@ -2322,9 +2322,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 34
 Sous Titre : Croix II (Cross II)
-Difficulté : 5
-Date de création : 10/2000
-Commentaire : Un petit niveau créé rapidement, qui se résoud rapidement.
+DifficultÃ© : 5
+Date de crÃ©ation : 10/2000
+Commentaire : Un petit niveau crÃ©Ã© rapidement, qui se rÃ©soud rapidement.
 
 Solution/Pushes (Built-in)
 dlLLUluurDRRllldldRRRRUrrruullDurrddldLLLLUluurDrRddllUdrruulLdlldRRuu
@@ -2350,9 +2350,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 35
 Sous Titre : Croix III (Cross III)
-Difficulté : 6
-Date de création : 10/2000
-Commentaire : En résumé, les caisses descendent puis remontent. Avec un petit piège quand même lors de la remontée.
+DifficultÃ© : 6
+Date de crÃ©ation : 10/2000
+Commentaire : En rÃ©sumÃ©, les caisses descendent puis remontent. Avec un petit piÃ¨ge quand mÃªme lors de la remontÃ©e.
 
 Solution/Pushes (Built-in)
 drdrruruulDuLLDRDulldRdRUluurrrddLLdlUluluRRRDLddrUrruuLDrdLLdlUrddrUU
@@ -2378,9 +2378,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 36
 Sous Titre : L
-Difficulté : 5
-Date de création : 11/2000
-Commentaire : Petite récréation avant d'attaquer les niveaux les plus difficiles de la série.
+DifficultÃ© : 5
+Date de crÃ©ation : 11/2000
+Commentaire : Petite rÃ©crÃ©ation avant d'attaquer les niveaux les plus difficiles de la sÃ©rie.
 
 Solution/Pushes (Built-in)
 ldlddrrruRdlllluurDRdrruLLUluurDDllddRRlUUrDrrddlUruLLullddrRuulDrrrdr
@@ -2406,10 +2406,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 MicroCosmos 37
-Sous Titre : Grande cour des cloîtres (Big court of the cloisters)
-Difficulté : 8,5
-Date de création : 11/2000
-Commentaire : Peut-être mon 4-caisses le plus difficile de cette série. C'est un mélange de plusieurs thèmes rencontrés dans les niveaux précédents (rotatif, cible en coin, etc..).
+Sous Titre : Grande cour des cloÃ®tres (Big court of the cloisters)
+DifficultÃ© : 8,5
+Date de crÃ©ation : 11/2000
+Commentaire : Peut-Ãªtre mon 4-caisses le plus difficile de cette sÃ©rie. C'est un mÃ©lange de plusieurs thÃ¨mes rencontrÃ©s dans les niveaux prÃ©cÃ©dents (rotatif, cible en coin, etc..).
 
 Solution/Pushes (Built-in)
 uulLdlluRRdldllluuRRdrdddllUdrruuuruRurDDDldLrurrdLLruuulldllullddRddr
@@ -2438,8 +2438,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 38
 Sous Titre : Ascenseurs (Lifts)
-Difficulté : 8,5
-Date de création : 11/2000
+DifficultÃ© : 8,5
+Date de crÃ©ation : 11/2000
 Commentaire : Un One-box-move qui va en bloquer plus d'un. Les caisses ne suivent pas toujours le chemin qu'on croit.
 
 Solution/Pushes (Built-in)
@@ -2468,8 +2468,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 39
 Sous Titre : Turn over
-Difficulté : 8
-Date de création : 11/2000
+DifficultÃ© : 8
+Date de crÃ©ation : 11/2000
 Commentaire : Un niveau qui cache bien son jeu. Si on le prend par le mauvais bout, on peut tourner en rond longtemps.
 
 Solution/Pushes (Built-in)
@@ -2498,9 +2498,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 MicroCosmos 40
 Sous Titre : 3 omelettes (3 eggs)
-Difficulté : 4,5
-Date de création : 11/2000
-Commentaire : Un petit 3-caisses pour finir la série. Pas si trivial qu'il en à l'air.
+DifficultÃ© : 4,5
+Date de crÃ©ation : 11/2000
+Commentaire : Un petit 3-caisses pour finir la sÃ©rie. Pas si trivial qu'il en Ã  l'air.
 
 Solution/Pushes (Built-in)
 llddRdrUlluurrruullDurrddlLrrurDDrdLLLUdrruuluullddRlulldRddRRuuLrddll
@@ -2527,9 +2527,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 01
 Sous Titre : +X
-Difficulté : 6,5
-Date de création : 12/2000
-Commentaire : Réalisé à Noël 2000. Un design version guirlande.
+DifficultÃ© : 6,5
+Date de crÃ©ation : 12/2000
+Commentaire : RÃ©alisÃ© Ã  NoÃ«l 2000. Un design version guirlande.
 
 Solution/Pushes (Built-in)
 ruruulLrrddldlluRURlddrUrUdlluRuulDDrdrruLLddlluRUdlluRdrRuuullDDldRuR
@@ -2558,9 +2558,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 02
 Sous Titre : Domino 4-3
-Difficulté : 8,5
-Date de création : 2001
-Commentaire : Un thème très intéressant que j'ai réutilisé plusieurs fois (NaboKosmos 07, NaboKosmos 08 et aussi NaboKosmos 21). Les mouvements des caisses ne sont pas évidents, et on peut tourner en rond longtemps.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 2001
+Commentaire : Un thÃ¨me trÃ¨s intÃ©ressant que j'ai rÃ©utilisÃ© plusieurs fois (NaboKosmos 07, NaboKosmos 08 et aussi NaboKosmos 21). Les mouvements des caisses ne sont pas Ã©vidents, et on peut tourner en rond longtemps.
 
 Solution/Pushes (Built-in)
 dddlLdlUUUUrDlddrrruuLLDldRuuulUlluurrDrDLrDDrruuLrddlluluurDrrddllDlU
@@ -2589,8 +2589,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 03
 Sous Titre : Roi (King)
-Difficulté : 8
-Date de création : 01/2001
+DifficultÃ© : 8
+Date de crÃ©ation : 01/2001
 Commentaire : Un niveau que j'aime beaucoup par son apparence facile.
 
 Solution/Pushes (Built-in)
@@ -2619,9 +2619,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 04
 Sous Titre : Grand T (Big T)
-Difficulté : 7
-Date de création : 01/2001
-Commentaire : Le retour du thème de l'escalier. Pour ceux qui considère qu'un niveau "escalier" est facile.(Voir aussi MicroCosmos 30).
+DifficultÃ© : 7
+Date de crÃ©ation : 01/2001
+Commentaire : Le retour du thÃ¨me de l'escalier. Pour ceux qui considÃ¨re qu'un niveau "escalier" est facile.(Voir aussi MicroCosmos 30).
 
 Solution/Pushes (Built-in)
 lldddrrRllluuurrrRdrruLLLLdRDDllluuuRRdrddldRRdrruLuLLdRurDldRluluuulu
@@ -2650,9 +2650,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 05
 Sous Titre : V
-Difficulté : 7
-Date de création : 01/2001
-Commentaire : Peu de poussées, mais la permutation n'est pas si évidente à trouver.
+DifficultÃ© : 7
+Date de crÃ©ation : 01/2001
+Commentaire : Peu de poussÃ©es, mais la permutation n'est pas si Ã©vidente Ã  trouver.
 
 Solution/Pushes (Built-in)
 lUruurrdDDrdLLdllluluuRRdrUlllddrdrrruruuLLLrrruulllDurrrddllUluRdddlU
@@ -2679,8 +2679,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 06
 Sous Titre : Domino 2-2
-Difficulté : 6
-Date de création : 01/2001
+DifficultÃ© : 6
+Date de crÃ©ation : 01/2001
 Commentaire : Une suite de petits leurres auxquels il ne faut pas se fier.
 
 Solution/Pushes (Built-in)
@@ -2711,9 +2711,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 07
 Sous Titre : Domino 4-3 +
-Difficulté : 8,5
-Date de création : 01/2001
-Commentaire : NaboKosmos 02 ayant plu, je m'y suis remis. Et j'ai trouvé une combinaison différente et plus difficile.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 01/2001
+Commentaire : NaboKosmos 02 ayant plu, je m'y suis remis. Et j'ai trouvÃ© une combinaison diffÃ©rente et plus difficile.
 
 Solution/Pushes (Built-in)
 dddlLdlUUluurrDuluurDluuurDldddlddrUddrrruuLLDurruuLLDurrddddlLulluuRD
@@ -2742,9 +2742,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 08
 Sous Titre : Domino 2-3
-Difficulté : 8,5
-Date de création : 01/2001
-Commentaire : Une version plus condensée du précédent. Un de mes niveaux préférés.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 01/2001
+Commentaire : Une version plus condensÃ©e du prÃ©cÃ©dent. Un de mes niveaux prÃ©fÃ©rÃ©s.
 
 Solution/Pushes (Built-in)
 uurRurDDrddllUdrddlUruruulDuulllddRRUdllddRRUdlluuuurRdrrddLULuulldddd
@@ -2773,9 +2773,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 09
 Sous Titre : X>
-Difficulté : 8
-Date de création : 01/2001
-Commentaire : Si on pivote le niveau d'un quart de tour, cela ressemble à la tour Eiffel, non ?
+DifficultÃ© : 8
+Date de crÃ©ation : 01/2001
+Commentaire : Si on pivote le niveau d'un quart de tour, cela ressemble Ã  la tour Eiffel, non ?
 
 Solution/Pushes (Built-in)
 DldRluuuurrrdDDrddlUUUUruLLLulDDDrddRllUlldRRRuuUlDrdLuuuurDrrdddrddlU
@@ -2803,10 +2803,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 10
-Sous Titre : 50ième (50th)
-Difficulté : 8,5
-Date de création : 01/2001
-Commentaire : Mon 50ième niveau. L'astuce principale est bien camouflée, à vous de la trouver.
+Sous Titre : 50iÃ¨me (50th)
+DifficultÃ© : 8,5
+Date de crÃ©ation : 01/2001
+Commentaire : Mon 50iÃ¨me niveau. L'astuce principale est bien camouflÃ©e, Ã  vous de la trouver.
 
 Solution/Pushes (Built-in)
 uUlullddddrRlluuuullddRluurrrrdrddldlluUUdlluurRddddlUruuullddRdrdrrur
@@ -2837,10 +2837,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 11
-Sous Titre : Triplé (Triplet)
-Difficulté : 4,5
-Date de création : 01/2001
-Commentaire : Un petit 3caisses qui est une récréation après les niveaux précédents.
+Sous Titre : TriplÃ© (Triplet)
+DifficultÃ© : 4,5
+Date de crÃ©ation : 01/2001
+Commentaire : Un petit 3caisses qui est une rÃ©crÃ©ation aprÃ¨s les niveaux prÃ©cÃ©dents.
 
 Solution/Pushes (Built-in)
 ruullldddddrdrruLdldlluuruuuuurrrdddLLrDDLddlluuRuUUUluRRRurDllldddrrd
@@ -2869,9 +2869,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 12
 Sous Titre : Pirouette (Roll around)
-Difficulté : 7,5
-Date de création : 01/2001
-Commentaire : Le chemin parcouru par la caisse la plus à droite n'est pas naturel. On y voit pas clair immédiatement.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 01/2001
+Commentaire : Le chemin parcouru par la caisse la plus Ã  droite n'est pas naturel. On y voit pas clair immÃ©diatement.
 
 Solution/Pushes (Built-in)
 uulldlddRluurDuurrddLLrrrDDrdLLLuUddrruuLuuullddRlulldRdddRRuUrUrdddLd
@@ -2899,9 +2899,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 13
 Sous Titre : Trio
-Difficulté : 4,5
-Date de création : 01/2001
-Commentaire : Encore une petite récréation rotative ...
+DifficultÃ© : 4,5
+Date de crÃ©ation : 01/2001
+Commentaire : Encore une petite rÃ©crÃ©ation rotative ...
 
 Solution/Pushes (Built-in)
 ddrrrrUrUUruLLLLLrrrrdddldlluRuRlddrUdlllluuuluurDDDDldRRRurrrUUruLLLL
@@ -2929,9 +2929,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 14
 Sous Titre : Demi-pomme (Half apple)
-Difficulté : 7,5
-Date de création : 02/2001
-Commentaire : Design simple, solution pas évidente. Il faut tourner c'est sûr, mais il faut s'arrêter aussi pour trouver l'astuce.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 02/2001
+Commentaire : Design simple, solution pas Ã©vidente. Il faut tourner c'est sÃ»r, mais il faut s'arrÃªter aussi pour trouver l'astuce.
 
 Solution/Pushes (Built-in)
 uuuurDlddrRRdLruuruulDLLDldRRdrrUUruLLrdddllulldRuuuulDDrdrRUruulDLLdd
@@ -2957,9 +2957,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 15
 Sous Titre : Demi-pomme + (Half apple +)
-Difficulté : 8
-Date de création : 02/2001
-Commentaire : Cette demi-pomme est encore plus savoureuse après la première. Car elle enlève le tournis (on tourne dans l'autre sens), et parce qu'on est influencé par la solution préédente.
+DifficultÃ© : 8
+Date de crÃ©ation : 02/2001
+Commentaire : Cette demi-pomme est encore plus savoureuse aprÃ¨s la premiÃ¨re. Car elle enlÃ¨ve le tournis (on tourne dans l'autre sens), et parce qu'on est influencÃ© par la solution prÃ©Ã©dente.
 
 Solution/Pushes (Built-in)
 uuuulDrddlLLdRluuluurDRRDuurDrdLdLLdllUUluRRRRDrddLLuRuulllddRluurrrdr
@@ -2988,9 +2988,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 16
 Sous Titre : Soupape (Valve)
-Difficulté : 7
-Date de création : 02/2001
-Commentaire : Le sous-titre décrit bien ce qui se passe. Ca descend, ça monte, ça redescent et ça remonte. NaboKosmos 39 est assez similaire.
+DifficultÃ© : 7
+Date de crÃ©ation : 02/2001
+Commentaire : Le sous-titre dÃ©crit bien ce qui se passe. Ca descend, Ã§a monte, Ã§a redescent et Ã§a remonte. NaboKosmos 39 est assez similaire.
 
 Solution/Pushes (Built-in)
 ulDrrddLUUrddddLUUdlluRdrruuullDDuurrdLDuuluurDDrddllUUrrdLrdddlUUlldR
@@ -3017,9 +3017,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 17
 Sous Titre : Pi
-Difficulté : 8,5
-Date de création : 02/2001
-Commentaire : Plusieurs astuces à la suite font quece niveau est difficile à résoudre d'un trait. Il vaut mieux s'arreter pour réfléchir. NaboKosmos 21 est un niveau assez proche.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 02/2001
+Commentaire : Plusieurs astuces Ã  la suite font quece niveau est difficile Ã  rÃ©soudre d'un trait. Il vaut mieux s'arreter pour rÃ©flÃ©chir. NaboKosmos 21 est un niveau assez proche.
 
 Solution/Pushes (Built-in)
 dddLruurrddLUrdddlUUruuLulllddRdRRdrUlllulldRRluuurrrdDLLdlUrrruulDrdD
@@ -3046,10 +3046,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 18
-Sous Titre : Téléphone (Phone)
-Difficulté : 6
-Date de création : 02/2001
-Commentaire : A vous de composer le bon numéro de téléphone ...
+Sous Titre : TÃ©lÃ©phone (Phone)
+DifficultÃ© : 6
+Date de crÃ©ation : 02/2001
+Commentaire : A vous de composer le bon numÃ©ro de tÃ©lÃ©phone ...
 
 Solution/Pushes (Built-in)
 lldldddRRRllluuururrrrdrddLLDlddlUruruulDDrurruululllldldddrRddrrUUddl
@@ -3078,9 +3078,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 19
 Sous Titre : Sablier (Sand glass)
-Difficulté : 5,5
-Date de création : 02/2001
-Commentaire : Il suffit de ne pas vouloir être trop pressé. En version plus simple, il y a aussi MiniCosmos 22.
+DifficultÃ© : 5,5
+Date de crÃ©ation : 02/2001
+Commentaire : Il suffit de ne pas vouloir Ãªtre trop pressÃ©. En version plus simple, il y a aussi MiniCosmos 22.
 
 Solution/Pushes (Built-in)
 rddDDrrddlUruLdLLdlluRRRUUURurrdLLuulldRRlDDDrrddlUruLdLUUUUddddLdlluR
@@ -3107,9 +3107,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 20
 Sous Titre : Grand avion (Big plane)
-Difficulté : 8
-Date de création : 03/2001
-Commentaire : C'est un peu dans le style de NaboKosmos 02. Cela devrait vous tenir en haleine jusqu'à la fin.
+DifficultÃ© : 8
+Date de crÃ©ation : 03/2001
+Commentaire : C'est un peu dans le style de NaboKosmos 02. Cela devrait vous tenir en haleine jusqu'Ã  la fin.
 
 Solution/Pushes (Built-in)
 luRdllluRdllluRdrruuullDDldRuuurrddLruulldDrrdrruLrdrruLLdllddrrUdlluu
@@ -3138,9 +3138,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 21
 Sous Titre : Domino 2-3 +
-Difficulté : 8,5
-Date de création : 03/2001
-Commentaire : Un mélange de NaboKosmos 08 et NaboKosmos 12. Cela donne une combinaison pas évidente vers la fin.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 03/2001
+Commentaire : Un mÃ©lange de NaboKosmos 08 et NaboKosmos 12. Cela donne une combinaison pas Ã©vidente vers la fin.
 
 Solution/Pushes (Built-in)
 rdRluuurrddLrrdddllUURurDDullddrRuuluuulldldldRRluurDRDrUllldRRurrdddl
@@ -3165,10 +3165,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 22
-Sous Titre : Croix à terre (Cross on ground)
-Difficulté : 6,5
-Date de création : 03/2001
-Commentaire : François Marques et moi-même travaillions sur un thème. C'était à celui qui trouverait la bonne combinaison. Finalement, j'ai trouvé la combinaison, et François m'a arrangé le début.
+Sous Titre : Croix Ã  terre (Cross on ground)
+DifficultÃ© : 6,5
+Date de crÃ©ation : 03/2001
+Commentaire : FranÃ§ois Marques et moi-mÃªme travaillions sur un thÃ¨me. C'Ã©tait Ã  celui qui trouverait la bonne combinaison. Finalement, j'ai trouvÃ© la combinaison, et FranÃ§ois m'a arrangÃ© le dÃ©but.
 
 Solution/Pushes (Built-in)
 llulldRddrrUruuLLrrddlUddlluuRRllluullddRRRddrruuLuLDrrdrruLuLLdRlllll
@@ -3197,9 +3197,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 23
 Sous Titre : Grande allumette (Big match)
-Difficulté : 6,5
-Date de création : 03/2001
-Commentaire : Un niveau qui se résoud assez bien, après quelques repérages. A rapporcher de MicroCosmos 11.
+DifficultÃ© : 6,5
+Date de crÃ©ation : 03/2001
+Commentaire : Un niveau qui se rÃ©soud assez bien, aprÃ¨s quelques repÃ©rages. A rapporcher de MicroCosmos 11.
 
 Solution/Pushes (Built-in)
 ldllddrddrrrruulLDuruuLDDrrddlLLLuuRRDullluurRurDrdrdddlLuulldddlUUrur
@@ -3225,17 +3225,17 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 24
-Sous Titre : Manège I (Horse-gear I)
-Difficulté : 8
-Date de création : 03/2001
-Commentaire : Un niveau que j'aime particulièrement. Ca tourne, ca tourne et ... ca bloque ? (Voir aussi MicroCosmos 20, MicroCosmos 26 et NaboKosmos 33.)
+Sous Titre : ManÃ¨ge I (Horse-gear I)
+DifficultÃ© : 8
+Date de crÃ©ation : 03/2001
+Commentaire : Un niveau que j'aime particuliÃ¨rement. Ca tourne, ca tourne et ... ca bloque ? (Voir aussi MicroCosmos 20, MicroCosmos 26 et NaboKosmos 33.)
 
 Solution/Pushes (Built-in)
 uurruuLLLulDrrrrddlUdlddrUUrrdLuuuLDuLLulldRDDlddrUrruRlddrUrULuulLull
 dRdDldRRRRuuulLulDDDldRRRdrUUrrdLulDllluuurrrrDulllldddrrrrruL
 
 
-"NaboKosmos 25", by Aymeric du Peloux & François Marques
+"NaboKosmos 25", by Aymeric du Peloux & FranÃ§ois Marques
 
 ##### ####
 #   # #  #
@@ -3245,7 +3245,7 @@ dRdDldRRRRuuulLulDDDldRRRdrUUrrdLulDllluuurrrrDulllldddrrrrruL
  ##  #  ##
   #######
 
-Author: Aymeric du Peloux & François Marques
+Author: Aymeric du Peloux & FranÃ§ois Marques
 Email: aymeric.du-peloux@gadz.org
 Original level website: http://membres.lycos.fr/nabokos
 
@@ -3254,10 +3254,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 25
 Sous Titre : Rouleau (Scroll)
-Auteur : Aymeric du Peloux et François Marques
-Difficulté : 7
-Date de création : 04/2001
-Commentaire : Un des premiers niveaux créés avec François Marquès. Je lui ai proposé un 6-caisses, mais pas terrible. Il m'a proposé un 5-caisses. Pas encore ça. Je lui ai proposé à peu de chose ce 4-caisses. Il a ajouté la touche finale qui a rendu le niveau plus difficile, tel quel. Le dernier 4caisses de la série.
+Auteur : Aymeric du Peloux et FranÃ§ois Marques
+DifficultÃ© : 7
+Date de crÃ©ation : 04/2001
+Commentaire : Un des premiers niveaux crÃ©Ã©s avec FranÃ§ois MarquÃ¨s. Je lui ai proposÃ© un 6-caisses, mais pas terrible. Il m'a proposÃ© un 5-caisses. Pas encore Ã§a. Je lui ai proposÃ© Ã  peu de chose ce 4-caisses. Il a ajoutÃ© la touche finale qui a rendu le niveau plus difficile, tel quel. Le dernier 4caisses de la sÃ©rie.
 
 Solution/Pushes (Built-in)
 dLddrUUdllluRRdlllluRRlluurDlddrruLdlUrrdrruLrdrruLruulDDrdLLLuRdrUllL
@@ -3286,9 +3286,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 26
 Sous Titre : Ultima 5
-Difficulté : 8
-Date de création : 04/2001
-Commentaire : Un niveau plein de poussées, maxi rotatif.
+DifficultÃ© : 8
+Date de crÃ©ation : 04/2001
+Commentaire : Un niveau plein de poussÃ©es, maxi rotatif.
 
 Solution/Pushes (Built-in)
 lUUluRRdlddrddlUUUUruRRurrdLddddlLLuluurrdRDuluuRurrdLdDlluuRurDlldlll
@@ -3318,9 +3318,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 27
 Sous Titre : Ultima 6
-Difficulté : 9
-Date de création : 04/2001
-Commentaire : Le grand frère du précédent, en plus difficile.
+DifficultÃ© : 9
+Date de crÃ©ation : 04/2001
+Commentaire : Le grand frÃ¨re du prÃ©cÃ©dent, en plus difficile.
 
 Solution/Pushes (Built-in)
 ddrRuruuuLLrrdddlddrUUdllllulldRRRlluuuruulDDDDrrurURuulDLLdlddrrurUru
@@ -3352,9 +3352,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 28
 Sous Titre : Zigzag
-Difficulté : 7,5
-Date de création : 04/2001
-Commentaire : Particularité de ce niveau : Des rotations dans un sens et dans l'autre.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 04/2001
+Commentaire : ParticularitÃ© de ce niveau : Des rotations dans un sens et dans l'autre.
 
 Solution/Pushes (Built-in)
 uUUURurrdLdDrdLLLuuuRlddllUURuulDDrRdddrruuULuLLdRdddrruuuruLLrddddllu
@@ -3382,9 +3382,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 29
 Sous Titre : Montpellier-Paris
-Difficulté : 8
-Date de création : 04/2001
-Commentaire : Créé en grande partie dans le TGV méditerrannée (comme MicroCosmos 19). Un style différent des précédents pour casser l'habitude.
+DifficultÃ© : 8
+Date de crÃ©ation : 04/2001
+Commentaire : CrÃ©Ã© en grande partie dans le TGV mÃ©diterrannÃ©e (comme MicroCosmos 19). Un style diffÃ©rent des prÃ©cÃ©dents pour casser l'habitude.
 
 Solution/Pushes (Built-in)
 dlDlddRURUdlddrUdrruLrruulLDLruuLDrrrddldlUdlluRlluuRRDLddrrruruulLulu
@@ -3411,9 +3411,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 30
 Sous Titre : Noeud papillon (Bow tie)
-Difficulté : 7,5
-Date de création : 04/2001
-Commentaire : Créé entièrement à partir du solveur de Paul Voyer (d'habitude j'utilise le solveur que pour vérifier ou pour apporter la touche finale). Je préfère encore créer à partir d'une feuille de papier ou d'un jeu de GO.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 04/2001
+Commentaire : CrÃ©Ã© entiÃ¨rement Ã  partir du solveur de Paul Voyer (d'habitude j'utilise le solveur que pour vÃ©rifier ou pour apporter la touche finale). Je prÃ©fÃ¨re encore crÃ©er Ã  partir d'une feuille de papier ou d'un jeu de GO.
 
 Solution/Pushes (Built-in)
 UrUrrUdlldlluRURuulDDDldRdrrULUURDlluuurrDurrdLulllddrdrrULdlluuurrDDL
@@ -3440,10 +3440,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 31
-Sous Titre : Détour (Turning)
-Difficulté : 7
-Date de création : 05/2001
-Commentaire : Comme son sous-titre l'indique, les 2 caisses du bas risquent de faire un détour pour arriver à leur destination. Mais où ?
+Sous Titre : DÃ©tour (Turning)
+DifficultÃ© : 7
+Date de crÃ©ation : 05/2001
+Commentaire : Comme son sous-titre l'indique, les 2 caisses du bas risquent de faire un dÃ©tour pour arriver Ã  leur destination. Mais oÃ¹ ?
 
 Solution/Pushes (Built-in)
 UUUlluurrDrdLuulldllddRUddrRdrUUULLuurrDrdLddllluluuRlddrUrUdlluRdddrr
@@ -3472,9 +3472,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 32
 Sous Titre : Cible (Target)
-Difficulté : 7,5
-Date de création : 05/2001
-Commentaire : Un thème qui me trottait dans la tête depuis longtemps. Le plus dur était de rendre le niveau suffisamment intéressant. A vous de voir.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 05/2001
+Commentaire : Un thÃ¨me qui me trottait dans la tÃªte depuis longtemps. Le plus dur Ã©tait de rendre le niveau suffisamment intÃ©ressant. A vous de voir.
 
 Solution/Pushes (Built-in)
 rruruulDLLddrrUruLddlllluuRurDDullddrRddrdrruLUULLddRdrUlluuuullddddRR
@@ -3502,10 +3502,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 33
-Sous Titre : Manège II (Horse-gear II)
-Difficulté : 6,5
-Date de création : 05/2001
-Commentaire : 100% créé avec le solveur. Il rappelle un peu NaboKosmos 24.
+Sous Titre : ManÃ¨ge II (Horse-gear II)
+DifficultÃ© : 6,5
+Date de crÃ©ation : 05/2001
+Commentaire : 100% crÃ©Ã© avec le solveur. Il rappelle un peu NaboKosmos 24.
 
 Solution/Pushes (Built-in)
 drrrUUrDuuLLulldRdDRdrUllldRurrruulLulDDDrrddrUUllluurrDDrdrruLLLuurDl
@@ -3534,9 +3534,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 34
 Sous Titre : Grande Ampoule (Big bulb)
-Difficulté : 9
-Date de création : 05/2001
-Commentaire : Au début, c'était un 5caisses. Jugé trop facile par François, je suis passé à 6 caisses. Tant mieux !
+DifficultÃ© : 9
+Date de crÃ©ation : 05/2001
+Commentaire : Au dÃ©but, c'Ã©tait un 5caisses. JugÃ© trop facile par FranÃ§ois, je suis passÃ© Ã  6 caisses. Tant mieux !
 
 Solution/Pushes (Built-in)
 luuRlddrUrUUUdddlluuURldddrruuLulDDuruURuulDlDDrUrurrdLLLdlluRuRRllddr
@@ -3564,9 +3564,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 35
 Sous Titre : Tourbillon (Swirl)
-Difficulté : 8,5
-Date de création : 05/2001
-Commentaire : C'est surtout la combinaison du bas du niveau que je souhaitais obtenir. J'ai rajouté à la fin la disposition isolé des 3 cibles du haut pour rajouter un peu de piment.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 05/2001
+Commentaire : C'est surtout la combinaison du bas du niveau que je souhaitais obtenir. J'ai rajoutÃ© Ã  la fin la disposition isolÃ© des 3 cibles du haut pour rajouter un peu de piment.
 
 Solution/Pushes (Built-in)
 ulldlddRRlluurDllldddrrUUUruurrddLdLUrrrdLLulllldddrrrrUUddlllluuurrDD
@@ -3594,10 +3594,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 36
-Sous Titre : L inversé (L reversed)
-Difficulté : 8
-Date de création : 05/2001
-Commentaire : Les 2 dégagements en bas à droite créent des mouvements pas évidents aux caisses pour les placer là où il faut.
+Sous Titre : L inversÃ© (L reversed)
+DifficultÃ© : 8
+Date de crÃ©ation : 05/2001
+Commentaire : Les 2 dÃ©gagements en bas Ã  droite crÃ©ent des mouvements pas Ã©vidents aux caisses pour les placer lÃ  oÃ¹ il faut.
 
 Solution/Pushes (Built-in)
 drrRDrddlUlUUlluurrRDrDDLdllUdrruruuluurDDlulllddRddrruUUdddlluuRUrDur
@@ -3624,9 +3624,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 37
 Sous Titre : Aller-retour (Return ticket)
-Difficulté : 8,5
-Date de création : 05/2001
-Commentaire : Un niveau amusant sur le thème de l'aller-retour.
+DifficultÃ© : 8,5
+Date de crÃ©ation : 05/2001
+Commentaire : Un niveau amusant sur le thÃ¨me de l'aller-retour.
 
 Solution/Pushes (Built-in)
 uuLuLLdDrddlUrRluUluLulDDDlddrURRRuulDuulldDlddrUrRuuulldDldRuuurrdrru
@@ -3654,9 +3654,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 38
 Sous Titre : Damier (Square board)
-Difficulté : 7,5
-Date de création : 05/2001
-Commentaire : Fait au solveur. Une petite astuce pas évidente.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 05/2001
+Commentaire : Fait au solveur. Une petite astuce pas Ã©vidente.
 
 Solution/Pushes (Built-in)
 lLLLuUddrruLUlllddRRdrUrrruLuLDuLLDRddlUlluuRRDrRuuullDDRlllddrRdrUlU
@@ -3683,10 +3683,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 NaboKosmos 39
-Sous Titre : Fantôme (Ghost)
-Difficulté : 8
-Date de création : 05/2001
-Commentaire : Un petit air de famille avec NaboKosmos 20. Un chassé croisé horizontal-vertical.
+Sous Titre : FantÃ´me (Ghost)
+DifficultÃ© : 8
+Date de crÃ©ation : 05/2001
+Commentaire : Un petit air de famille avec NaboKosmos 20. Un chassÃ© croisÃ© horizontal-vertical.
 
 Solution/Pushes (Built-in)
 lluurRDDuuuruulDDDllddrrUrUUdLddlddrUrUUlDuuurDrrddLLUdrruulLuluurDDDr
@@ -3715,9 +3715,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 NaboKosmos 40
 Sous Titre : J
-Difficulté : 9
-Date de création : 06/2001
-Commentaire : Créé en clin d'oeil à mon fils James, né quelques jours plus tard (12/06/2001).
+DifficultÃ© : 9
+Date de crÃ©ation : 06/2001
+Commentaire : CrÃ©Ã© en clin d'oeil Ã  mon fils James, nÃ© quelques jours plus tard (12/06/2001).
 
 Solution/Pushes (Built-in)
 ruulllDlddrURUdlluRuRRurrdLddLDLdlUluururRurDllldlddrrruUddlddrUUllluu
@@ -3748,9 +3748,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 01
 Sous Titre : Fleur (Flower)
-Difficulté : 8,75
-Date de création : 09/2001
-Commentaire : J'ai eu beaucoup de mal à créer ce premier niveau pour ne pas rater l'entame de cette série. Je me suis inspiré au départ de MiniCosmos 30. Cela semble si près d'être résolu ... et pourtant !
+DifficultÃ© : 8,75
+Date de crÃ©ation : 09/2001
+Commentaire : J'ai eu beaucoup de mal Ã  crÃ©er ce premier niveau pour ne pas rater l'entame de cette sÃ©rie. Je me suis inspirÃ© au dÃ©part de MiniCosmos 30. Cela semble si prÃ¨s d'Ãªtre rÃ©solu ... et pourtant !
 
 Solution/Pushes (Built-in)
 uullDDDLLrruuulldRDuurrrddLLdDrddlUUUddlllddrUluuluurDrRUUluurDrrrddlL
@@ -3780,9 +3780,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 02
 Sous Titre : Escalator
-Difficulté : 8
-Date de création : 09/2001
-Commentaire : Quelques pièges au début pour embrouiller, et un dénouement sympa.
+DifficultÃ© : 8
+Date de crÃ©ation : 09/2001
+Commentaire : Quelques piÃ¨ges au dÃ©but pour embrouiller, et un dÃ©nouement sympa.
 
 Solution/Pushes (Built-in)
 uuRDrruLrUrrUrruullDllDlDDrdLLrruUllDlDRllddrrUUlDuuRurrddLLuurDrurrUr
@@ -3811,9 +3811,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 03
 Sous Titre : Prison (jail)
-Difficulté : 9
-Date de création : 09/2001
-Commentaire : Pour sortir de la prison, ça va. Mais pour la reconstruire, c'est autre chose.
+DifficultÃ© : 9
+Date de crÃ©ation : 09/2001
+Commentaire : Pour sortir de la prison, Ã§a va. Mais pour la reconstruire, c'est autre chose.
 
 Solution/Pushes (Built-in)
 ULDldddrruULulDDurrdrruLLLuurRDLruuulDDlDRddrruruuLLulDDllluRRdrUruulD
@@ -3841,9 +3841,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 PicoKosmos 04
-Sous Titre : Bonzaï
-Difficulté : 9,5
-Date de création : 09/2001
+Sous Titre : BonzaÃ¯
+DifficultÃ© : 9,5
+Date de crÃ©ation : 09/2001
 Commentaire : Mon premier 8 caisses. Je n'ai pas l'habitude de faire dans ce style. Et c'est tant mieux de changer un peu, car sinon je ne vous surprendrais plus !
 
 Solution/Pushes (Built-in)
@@ -3872,9 +3872,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 05
 Sous Titre : Bowling
-Difficulté : 8,5
-Date de création : 09/2001
-Commentaire : C'est assez énervant car il y a toujours une caisse qu'on n'arrive pas à caser. De nombreux culs-de-sac à une caisse près !
+DifficultÃ© : 8,5
+Date de crÃ©ation : 09/2001
+Commentaire : C'est assez Ã©nervant car il y a toujours une caisse qu'on n'arrive pas Ã  caser. De nombreux culs-de-sac Ã  une caisse prÃ¨s !
 
 Solution/Pushes (Built-in)
 rrUruurrddLdLddrUrUUlDlLulldRRuRuurrDrDrdLLULLuurrDullddrRddLUruuulldd
@@ -3902,9 +3902,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 06
 Sous Titre : Muffins
-Difficulté : 10
-Date de création : 09/2001
-Commentaire : Prise de tête assurée. C'est mon premier niveau que j'estime d'une difficulté 10 (niveau Maître). J'espère que vous l'apprécierez ... longtemps.
+DifficultÃ© : 10
+Date de crÃ©ation : 09/2001
+Commentaire : Prise de tÃªte assurÃ©e. C'est mon premier niveau que j'estime d'une difficultÃ© 10 (niveau MaÃ®tre). J'espÃ¨re que vous l'apprÃ©cierez ... longtemps.
 
 Solution/Pushes (Built-in)
 ruUlUlDlluRurDrdrrrdLdllllUUluRururDrrDDlUdlLURuulDldldRddrrrrUruLuuLL
@@ -3933,9 +3933,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 07
 Sous Titre : 11
-Difficulté : 9,5
-Date de création : 10/2001
-Commentaire : Nouvelle version de PicoKosmos 7. Mais cette fois, c'est de la bombe, baby ! La 1ère version est devenue une variante de NaboKosmos 39. Pour la 1ère fois, j'ai utilisé le programme Rbox de Andreas Stabel disponible sur Sokomind pour finaliser ce niveau. Pas mal comme aide à la création !
+DifficultÃ© : 9,5
+Date de crÃ©ation : 10/2001
+Commentaire : Nouvelle version de PicoKosmos 7. Mais cette fois, c'est de la bombe, baby ! La 1Ã¨re version est devenue une variante de NaboKosmos 39. Pour la 1Ã¨re fois, j'ai utilisÃ© le programme Rbox de Andreas Stabel disponible sur Sokomind pour finaliser ce niveau. Pas mal comme aide Ã  la crÃ©ation !
 
 Solution/Pushes (Built-in)
 UULLrrddLUdLdlluRuRRdLuuuurrDLulDLDlluRRRurrdLDLdddlluUURuRurrdrdLuull
@@ -3965,9 +3965,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 08
 Sous Titre : Matrix
-Difficulté : 9
-Date de création : 10/2001
-Commentaire : Cela rappelle un peu PicoKosmos 4 mais en un petit peu plus facile. Il suffit de bien gérer l'espace.
+DifficultÃ© : 9
+Date de crÃ©ation : 10/2001
+Commentaire : Cela rappelle un peu PicoKosmos 4 mais en un petit peu plus facile. Il suffit de bien gÃ©rer l'espace.
 
 Solution/Pushes (Built-in)
 ruuLrddlUlUURDldRluuLulDDLDlddrUrUUlDrdLruuRuulDDldlluRuRRdLulDrruurDr
@@ -3996,9 +3996,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 09
 Sous Titre : Grand Damier (Big square board)
-Difficulté : 9,5
-Date de création : 10/2001
-Commentaire : Bien sûr, il va falloir tout casser et tout reconstruire. On a l'impression d'avoir beaucoup d'espace. Mais cela reste une impression ...
+DifficultÃ© : 9,5
+Date de crÃ©ation : 10/2001
+Commentaire : Bien sÃ»r, il va falloir tout casser et tout reconstruire. On a l'impression d'avoir beaucoup d'espace. Mais cela reste une impression ...
 
 Solution/Pushes (Built-in)
 uUURRDrddLruulDuulldddlluUURuulDDrRddRRuuLuLDlluRdrrrddllddrUllluUUrrD
@@ -4029,9 +4029,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 10
 Sous Titre : Visage (Face)
-Difficulté : 10
-Date de création : 10/2001
-Commentaire : Un niveau "atomique" extrêmement difficile. Pour la première fois, j'ai vu vraiment peiné mon ami François Marques qui l'a résolu en ... 47 minutes. Gnarf, gnarf ...
+DifficultÃ© : 10
+Date de crÃ©ation : 10/2001
+Commentaire : Un niveau "atomique" extrÃªmement difficile. Pour la premiÃ¨re fois, j'ai vu vraiment peinÃ© mon ami FranÃ§ois Marques qui l'a rÃ©solu en ... 47 minutes. Gnarf, gnarf ...
 
 Solution/Pushes (Built-in)
 ullDurrdLrurrDLdDrUluullddDRDulldRdRUluuuulldRurrrddrddLLdlUluUUluRRld
@@ -4061,9 +4061,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 11
 Sous Titre : Poussin (Chick)
-Difficulté : 9,5
-Date de création : 10/2001
-Commentaire : Peu d'espace pour faire circuler les 8 caisses. On se calme (un peu) par rapport au niveau précédent.
+DifficultÃ© : 9,5
+Date de crÃ©ation : 10/2001
+Commentaire : Peu d'espace pour faire circuler les 8 caisses. On se calme (un peu) par rapport au niveau prÃ©cÃ©dent.
 
 Solution/Pushes (Built-in)
 UlDLLLDlluRRRRDLLrruUruulDDrrruLdlluurDrdddLLUlldRRuURurrdLdLLrruulDld
@@ -4093,10 +4093,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 PicoKosmos 12
-Sous Titre : Hanoï
-Difficulté : 9,75
-Date de création : 10/2001
-Commentaire : Très amusant à résoudre. Cela rappelle un peu les tours de Hanoï ... Je défais, j'arrive à un passage presque symétrique, puis je refais. La première version de ce tableau était un peu différente, mais moins efficace. Vous pouvez aussi vous amuser à rajouter des étages ... Mais vous l'aurez voulu !!!
+Sous Titre : HanoÃ¯
+DifficultÃ© : 9,75
+Date de crÃ©ation : 10/2001
+Commentaire : TrÃ¨s amusant Ã  rÃ©soudre. Cela rappelle un peu les tours de HanoÃ¯ ... Je dÃ©fais, j'arrive Ã  un passage presque symÃ©trique, puis je refais. La premiÃ¨re version de ce tableau Ã©tait un peu diffÃ©rente, mais moins efficace. Vous pouvez aussi vous amuser Ã  rajouter des Ã©tages ... Mais vous l'aurez voulu !!!
 
 Solution/Pushes (Built-in)
 rDDDLUrdDDLUdDlddrUrUruLullDDRUdlldRdrUrUruLuuullDDRUdlDDRUrrdLdlUluuu
@@ -4126,9 +4126,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 13
 Sous Titre : Bateau (boat)
-Difficulté : 9
-Date de création : 11/2001
-Commentaire : Le thème du sablier ou des vases communicants. Pas de problème d'espace, mais il faut tout de même trouver le bon chemin.
+DifficultÃ© : 9
+Date de crÃ©ation : 11/2001
+Commentaire : Le thÃ¨me du sablier ou des vases communicants. Pas de problÃ¨me d'espace, mais il faut tout de mÃªme trouver le bon chemin.
 
 Solution/Pushes (Built-in)
 lLrddLULLLLLddrUluuulldRurDDRRRRRddlUruLrdrUUruulDllDDrrUdllLLuLLulldR
@@ -4157,10 +4157,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 PicoKosmos 14
-Sous Titre : Cédille (Cedilla)
-Difficulté : 9,25
-Date de création : 11/2001
-Commentaire : Un thème classique de rangement dans le bon ordre, mais avec suffisamment de caisses et peu d'espace pour que cela ne soit pas trivial.
+Sous Titre : CÃ©dille (Cedilla)
+DifficultÃ© : 9,25
+Date de crÃ©ation : 11/2001
+Commentaire : Un thÃ¨me classique de rangement dans le bon ordre, mais avec suffisamment de caisses et peu d'espace pour que cela ne soit pas trivial.
 
 Solution/Pushes (Built-in)
 uruurrrrddDllURdrUUruulDllllddRRUdlluurRdddDLUruuullddRdrUdrruLrdDLddr
@@ -4191,9 +4191,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 15
 Sous Titre : Coupe (Cup)
-Difficulté : 10
-Date de création : 11/2001
-Commentaire : Il y a du chemin à faire avant de tenir la coupe à deux mains !
+DifficultÃ© : 10
+Date de crÃ©ation : 11/2001
+Commentaire : Il y a du chemin Ã  faire avant de tenir la coupe Ã  deux mains !
 
 Solution/Pushes (Built-in)
 rdRDrddLUlUdrruLuLuurDrDDlddrrruuLLDllUURDldRddlUlluuRRDuuruulDDDllddr
@@ -4221,9 +4221,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 16
 Sous Titre : Cxh8 (Kxh8)
-Difficulté : 9
-Date de création : 11/2001
-Commentaire : Encore un damier ou, si l'on veut, un échiquier. Le problème est : Comment le cavalier bleu va en h8 ?
+DifficultÃ© : 9
+Date de crÃ©ation : 11/2001
+Commentaire : Encore un damier ou, si l'on veut, un Ã©chiquier. Le problÃ¨me est : Comment le cavalier bleu va en h8 ?
 
 Solution/Pushes (Built-in)
 rUdRdRRULULDrrruLuullDRDrddlUlURdllluRdrruuullDDRluurrdLddrUllldRurrdr
@@ -4253,12 +4253,12 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 PicoKosmos 17
-Sous Titre : Grand Hanoï (Big Hanoï)
-Difficulté : 10
-Date de création : 12/2001
-Commentaire : Sur le même thème que PicoKosmos 12 . Une caisse en plus, mais plus compact. Que de mouvements pour un niveau aussi petit !! Soyez méthodique surtout ...
+Sous Titre : Grand HanoÃ¯ (Big HanoÃ¯)
+DifficultÃ© : 10
+Date de crÃ©ation : 12/2001
+Commentaire : Sur le mÃªme thÃ¨me que PicoKosmos 12 . Une caisse en plus, mais plus compact. Que de mouvements pour un niveau aussi petit !! Soyez mÃ©thodique surtout ...
 
-David Holland a écrit une analyse théorique sur PicoKosmos 17 et la famille de tableaux qui en dérive. C'est très intéressant !
+David Holland a Ã©crit une analyse thÃ©orique sur PicoKosmos 17 et la famille de tableaux qui en dÃ©rive. C'est trÃ¨s intÃ©ressant !
 
 Solution/Pushes (Built-in)
 lDDDRUdlDDRUdllddrRUrrdLdlUlluurDuurrDDLUdddrUruLulllddRRUrrdLdlUlluur
@@ -4290,10 +4290,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 
 Author's note:
 PicoKosmos 18
-Sous Titre : Brosse à dent (Toothbrush)
-Difficulté : 9,5
-Date de création : 12/2001
-Commentaire : On change souvent de caisse et on manque d'espace. La combinaison finale n'est pas évidente.
+Sous Titre : Brosse Ã  dent (Toothbrush)
+DifficultÃ© : 9,5
+Date de crÃ©ation : 12/2001
+Commentaire : On change souvent de caisse et on manque d'espace. La combinaison finale n'est pas Ã©vidente.
 
 Solution/Pushes (Built-in)
 lluurUdlluRuurrdLrrDDLLURurrrddLUdLUlldRlulldRddrrUULrRurrdLLLddlluURu
@@ -4321,9 +4321,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 19
 Sous Titre : Serpent (Snake)
-Difficulté : 10
-Date de création : 12/2001
-Commentaire : Bientôt la fin de la série, et donc une petite bombinette !!! C'est un de mes niveaux les plus difficiles.
+DifficultÃ© : 10
+Date de crÃ©ation : 12/2001
+Commentaire : BientÃ´t la fin de la sÃ©rie, et donc une petite bombinette !!! C'est un de mes niveaux les plus difficiles.
 
 Solution/Pushes (Built-in)
 llllDDuurrdLDlUrrurrDLdLUlldRuuRdrdddllUUddlUdlluRuRlddrruLuuRDlddrrru
@@ -4355,8 +4355,8 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 PicoKosmos 20
 Sous Titre : Cosmos
-Difficulté : 10
-Date de création : 12/2001
+DifficultÃ© : 10
+Date de crÃ©ation : 12/2001
 Commentaire : Le dernier des 140 niveaux "Cosmos" ... Un joli bouquet final !
 
 Solution/Pushes (Built-in)
@@ -4387,9 +4387,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 01
 Titre : MiniCosmos 28 var.
-Difficulté : 5,5
-Date de création : 2001
-Commentaire : Petite continuation de MiniCosmos 28, avec une fin un peu plus relevée.
+DifficultÃ© : 5,5
+Date de crÃ©ation : 2001
+Commentaire : Petite continuation de MiniCosmos 28, avec une fin un peu plus relevÃ©e.
 
 Solution/Pushes (Built-in)
 ldlluuRlddrrurrruLUUlulldDrDRlulldRRluuurrdrruLLLulDDDldddrrUrrUUddlld
@@ -4419,9 +4419,9 @@ Author's note:
 Cosmopoly 02
 Titre : MicroCosmos 31 var.
 Auteur : David Holland et Aymeric du Peloux
-Difficulté : 7
-Date de création : 07/2001
-Commentaire : David Holland m'a soumis cette très intéressante variation de MicroCosmos 31. Cela ajoute une difficulté supplémentaire au début du niveau, tout en conservant son dénouement.
+DifficultÃ© : 7
+Date de crÃ©ation : 07/2001
+Commentaire : David Holland m'a soumis cette trÃ¨s intÃ©ressante variation de MicroCosmos 31. Cela ajoute une difficultÃ© supplÃ©mentaire au dÃ©but du niveau, tout en conservant son dÃ©nouement.
 
 Solution/Pushes (Built-in)
 rrDullDDrDDrruuLLddrddlUUUddlluuRURDDullddrRurruuLuullDDuurrddrddlldll
@@ -4453,16 +4453,16 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 03
 Titre : NaboKosmos 39 var.
-Difficulté : 8
-Date de création : 10/2001
-Commentaire : Dans le style de NaboKosmos 39. Au début, je l'ai mis avec les PicoKosmos, mais il n'était pas assez difficile.
+DifficultÃ© : 8
+Date de crÃ©ation : 10/2001
+Commentaire : Dans le style de NaboKosmos 39. Au dÃ©but, je l'ai mis avec les PicoKosmos, mais il n'Ã©tait pas assez difficile.
 
 Solution/Pushes (Built-in)
 ruurUruLLDDuuUluurDDDrddlULUUdRllldRdRUruLddDDrrddllUUUUUrrdLulDruuulD
 ruuulDDrddrruLddllluRRUUlDrddlluluRddrruLruuluurDldDrddlDDrrddllUUrUU
 
 
-"Cosmopoly 04 (For ban 1)", by François Marques & Aymeric du Peloux
+"Cosmopoly 04 (For ban 1)", by FranÃ§ois Marques & Aymeric du Peloux
 
 #####
 #   ####
@@ -4473,7 +4473,7 @@ ruuulDDrddrruLddllluRRUUlDrddlluluRddrruLruuluurDldDrddlDDrrddllUUrUU
  #  ###
  ####
 
-Author: François Marques & Aymeric du Peloux
+Author: FranÃ§ois Marques & Aymeric du Peloux
 Email: aymeric.du-peloux@gadz.org
 Original level website: http://membres.lycos.fr/nabokos
 
@@ -4482,16 +4482,16 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 04
 Titre : For ban 1
-Auteur : François Marques et Aymeric du Peloux
-Difficulté : 5,5
-Date de création : 2001
+Auteur : FranÃ§ois Marques et Aymeric du Peloux
+DifficultÃ© : 5,5
+Date de crÃ©ation : 2001
 
 Solution/Pushes (Built-in)
 dlddrUluurrrddLLUluRluurDlddrdrruuuLLulDrrrdddlluURurDluLulldRRddlUruu
 lldRurDRdrruLLLulldRdRRuLulDrddddlU
 
 
-"Cosmopoly 05 (For ban 15)", by François Marques & Aymeric du Peloux
+"Cosmopoly 05 (For ban 15)", by FranÃ§ois Marques & Aymeric du Peloux
 
 #####
 #. .#####
@@ -4503,7 +4503,7 @@ lldRurDRdrruLLLulldRdRRuLulDrddddlU
 ###   #
   #####
 
-Author: François Marques & Aymeric du Peloux
+Author: FranÃ§ois Marques & Aymeric du Peloux
 Email: aymeric.du-peloux@gadz.org
 Original level website: http://membres.lycos.fr/nabokos
 
@@ -4512,10 +4512,10 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 05
 Titre : For ban 15
-Auteur : François Marques et Aymeric du Peloux
-Difficulté : 6,5
-Date de création : 2001
-Commentaire : Réalisé en même temps que NaboKosmos 19. C'est un peu plus difficile.
+Auteur : FranÃ§ois Marques et Aymeric du Peloux
+DifficultÃ© : 6,5
+Date de crÃ©ation : 2001
+Commentaire : RÃ©alisÃ© en mÃªme temps que NaboKosmos 19. C'est un peu plus difficile.
 
 Solution/Pushes (Built-in)
 RlullDDDldRRdrruLuLrddlUlUUURurrdLLuulldRRlDDDldRRdrruLuLrddlUlUUUrrru
@@ -4523,7 +4523,7 @@ rrdLLLLuRRllulldRRlDDDldRRdrruLuLrddlUlUUUUddddrruLdlUUUruuLDDrrruLdlU
 rrdrruLLLdllDDldRR
 
 
-"Cosmopoly 06 (Align that)", by François Marques & Aymeric du Peloux
+"Cosmopoly 06 (Align that)", by FranÃ§ois Marques & Aymeric du Peloux
 
   ####
  ##  #
@@ -4533,7 +4533,7 @@ rrdrruLLLdllDDldRR
 #    #@ #
 #########
 
-Author: François Marques & Aymeric du Peloux
+Author: FranÃ§ois Marques & Aymeric du Peloux
 Email: aymeric.du-peloux@gadz.org
 Original level website: http://membres.lycos.fr/nabokos
 
@@ -4542,9 +4542,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 06
 Titre : Align that
-Auteur : François Marques et Aymeric du Peloux
-Difficulté : 6
-Date de création : 2002
+Auteur : FranÃ§ois Marques et Aymeric du Peloux
+DifficultÃ© : 6
+Date de crÃ©ation : 2002
 
 Solution/Pushes (Built-in)
 ruuLLLddllluRRUruulDlDurrdLddrUUddllluRRuulDrrrrrddlUruLLLLddrUluRRRll
@@ -4572,9 +4572,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 07
 Sous titre : NaboKosmos 18 var.
-Difficulté : 7
-Date de création : 04/2002
-Commentaire : une variation de NaboKosmos 18. J'ai voulu diminuer l'espace inutile, en accentuant la difficulté.
+DifficultÃ© : 7
+Date de crÃ©ation : 04/2002
+Commentaire : une variation de NaboKosmos 18. J'ai voulu diminuer l'espace inutile, en accentuant la difficultÃ©.
 
 Solution/Pushes (Built-in)
 dlLLddrUUluuRuulldldddRluuururrddldDrddlUUlluuururrddDDrruuLrddlllddrr
@@ -4605,9 +4605,9 @@ Author's note:
 Cosmopoly 08
 Sous titre : MicroCosmos 26 var.
 Auteur : Howard Abed et Aymeric du Peloux
-Difficulté : 7
-Date de création : 09/2000
-Commentaire : Howard Abed m'avait envoyé cette variation de MicroCosmos 26 il y a 2 ans. Cela ajoute un peu de piment vers le bas du tableau.
+DifficultÃ© : 7
+Date de crÃ©ation : 09/2000
+Commentaire : Howard Abed m'avait envoyÃ© cette variation de MicroCosmos 26 il y a 2 ans. Cela ajoute un peu de piment vers le bas du tableau.
 
 Solution/Pushes (Built-in)
 luuurrDLDurRRdrruLLLLDllddrrUUlURRRdrruLLLLrrrUUruulDDDuuLLulldRRRllDD
@@ -4635,9 +4635,9 @@ Author's note:
 Cosmopoly 09
 Sous titre : MicroCosmos 37 var.
 Auteur : Evgeny Grigoriev et Aymeric du Peloux
-Difficulté : 8,75
-Date de création : 04/2002
-Commentaire : Evgeny Grigoriev m'a envoyé une variation de MicroCosmos 37 en rajoutant 2 caisses. J'ai modifié 2 cibles et une caisse, mais la difficulté y était déjà.
+DifficultÃ© : 8,75
+Date de crÃ©ation : 04/2002
+Commentaire : Evgeny Grigoriev m'a envoyÃ© une variation de MicroCosmos 37 en rajoutant 2 caisses. J'ai modifiÃ© 2 cibles et une caisse, mais la difficultÃ© y Ã©tait dÃ©jÃ .
 
 Solution/Pushes (Built-in)
 DDDldlluuuRdllluRddlllluurRDullddrRRurrdddllllUdrrrruuulldRlluullddRRu
@@ -4669,9 +4669,9 @@ Author's note:
 Cosmopoly 10
 Sous titre : MicroCosmos 19 var.
 Auteur : Masato Hiramatsu et Aymeric du Peloux
-Difficulté : 6,5
-Date de création : 09/2000
-Commentaire : Dans son forum, Masato Hiramatsu a proposé une variante de MicroCosmos 19 en déplaçant 2 cibles. Le niveau est plus difficile ainsi. Bien vu !
+DifficultÃ© : 6,5
+Date de crÃ©ation : 09/2000
+Commentaire : Dans son forum, Masato Hiramatsu a proposÃ© une variante de MicroCosmos 19 en dÃ©plaÃ§ant 2 cibles. Le niveau est plus difficile ainsi. Bien vu !
 
 Solution/Pushes (Built-in)
 rddddrruLdlUlluuurrdrDuluurDDlulldddrrUUruLddddrruLdlUUUruulDrdDlddrru
@@ -4700,9 +4700,9 @@ Author's note:
 Cosmopoly 11
 Sous titre : NaboKosmos 32 var.
 Auteur : Evgeny Grigoriev et Aymeric du Peloux
-Difficulté : 7
-Date de création : 05/2002
-Commentaire : Une variation de NaboKosmos 32 de la part de Grig. Par rapport à l'original, on pousse encore plus les caisses, et c'est toujours sympa à résoudre.
+DifficultÃ© : 7
+Date de crÃ©ation : 05/2002
+Commentaire : Une variation de NaboKosmos 32 de la part de Grig. Par rapport Ã  l'original, on pousse encore plus les caisses, et c'est toujours sympa Ã  rÃ©soudre.
 
 Solution/Pushes (Built-in)
 drrddlLLdlluRRRuullDurruuLulldRDDrruuLulDrrddrruuLLddddRdrUUdlluuuurrd
@@ -4733,9 +4733,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 12
 Sous titre : MicroCosmos 10 var.
-Difficulté : 4,75
-Date de création : 05/2002
-Commentaire : Une variation de MicroCosmos 10. L'idée originale était bonne, mais mal exploitée. C'est plus amusant ainsi.
+DifficultÃ© : 4,75
+Date de crÃ©ation : 05/2002
+Commentaire : Une variation de MicroCosmos 10. L'idÃ©e originale Ã©tait bonne, mais mal exploitÃ©e. C'est plus amusant ainsi.
 
 Solution/Pushes (Built-in)
 rrUUlulDDldRuurrruLuullDDRluurrdDllDDlddrUUUrurrdLddLruuuuulldldRRluur
@@ -4762,9 +4762,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 13
 Sous titre : MicroCosmos 39 var.
-Difficulté : 7,5
-Date de création : 05/2002
-Commentaire : Une variation de MicroCosmos 39. Avec le même tableau, la résolution change complètement en changeant les cibles et les caisses. Etonnant ...
+DifficultÃ© : 7,5
+Date de crÃ©ation : 05/2002
+Commentaire : Une variation de MicroCosmos 39. Avec le mÃªme tableau, la rÃ©solution change complÃ¨tement en changeant les cibles et les caisses. Etonnant ...
 
 Solution/Pushes (Built-in)
 rUUddlluURuurrdLDDuurrddLruulldllddrRUrruullulDrrrddlldlluuluRdddrruUL
@@ -4793,9 +4793,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 14
 Sous titre : NaboKosmos 12 var.
-Difficulté : 8
-Date de création : 06/2002
-Commentaire : Une variation de NaboKosmos 12. En déplaçant 2 cibles, le niveau passe de "amateur" à "expert".
+DifficultÃ© : 8
+Date de crÃ©ation : 06/2002
+Commentaire : Une variation de NaboKosmos 12. En dÃ©plaÃ§ant 2 cibles, le niveau passe de "amateur" Ã  "expert".
 
 Solution/Pushes (Built-in)
 uulldlddRluurDuurrddLLrrrDDrdLLLuUddrruuLuuullddRlulldRdddRRuUrUrdddLd
@@ -4825,9 +4825,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 15
 Sous titre : MiniCosmos 30 var.
-Difficulté : 7,5
-Date de création : 07/2002
-Commentaire : Une variation de MiniCosmos 30. Un thème qui méritait d'être retravaillé. Un 4-caisses muclé !
+DifficultÃ© : 7,5
+Date de crÃ©ation : 07/2002
+Commentaire : Une variation de MiniCosmos 30. Un thÃ¨me qui mÃ©ritait d'Ãªtre retravaillÃ©. Un 4-caisses muclÃ© !
 
 Solution/Pushes (Built-in)
 uullddRDDuulldddrdrruruuLrddldlluRuUrrddLdlluluuuruurrdDuurrdLulllddld
@@ -4856,9 +4856,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 16
 Sous titre : PicoKosmos 02 var.
-Difficulté : 6
-Date de création : 08/2002
-Commentaire : Une variation de PicoKosmos 02. Avec seulement 4 caisses, le thème initial est maintenu, et le design est meilleur.
+DifficultÃ© : 6
+Date de crÃ©ation : 08/2002
+Commentaire : Une variation de PicoKosmos 02. Avec seulement 4 caisses, le thÃ¨me initial est maintenu, et le design est meilleur.
 
 Solution/Pushes (Built-in)
 rUUdlluRuRDuRRdLLulDlddrrULulDruurrruurrddLLdlLuuRDrrruullDurrddlLdLUl
@@ -4884,9 +4884,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 17
 Sous titre : MicroCosmos 01 var.
-Difficulté : 6
-Date de création : 08/2002
-Commentaire : Une variation de MicroCosmos 01. Au départ, je croyais MicroCosmos 01 plus difficile qu'il ne l'était vraiment. Voici une version plus ardue, avec 2 cases en moins.
+DifficultÃ© : 6
+Date de crÃ©ation : 08/2002
+Commentaire : Une variation de MicroCosmos 01. Au dÃ©part, je croyais MicroCosmos 01 plus difficile qu'il ne l'Ã©tait vraiment. Voici une version plus ardue, avec 2 cases en moins.
 
 Solution/Pushes (Built-in)
 dRRdrrULuLDrrrruulDrdLuLDlluRRdrruulDrdLLulldlluRRRRdLddrUUlulldRurDrd
@@ -4914,9 +4914,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 18
 Sous titre : NaboKosmos 23 var.
-Difficulté : 7,5
-Date de création : 08/2002
-Commentaire : Une variation de NaboKosmos 23. Une case inutile en moins, et une disposition différente qui le rend un peu plus difficile.
+DifficultÃ© : 7,5
+Date de crÃ©ation : 08/2002
+Commentaire : Une variation de NaboKosmos 23. Une case inutile en moins, et une disposition diffÃ©rente qui le rend un peu plus difficile.
 
 Solution/Pushes (Built-in)
 uruRRurDDDrrddlllLulURRRuulllDldRRddrrUUUdddrruuLulDrrddlllluluuurrurD
@@ -4945,9 +4945,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 19
 Sous titre : MicroCosmos 28 var.
-Difficulté : 7
-Date de création : 08/2002
-Commentaire : Une variation de MicroCosmos 28. Le bon vieux thème de l'escalier revisité.
+DifficultÃ© : 7
+Date de crÃ©ation : 08/2002
+Commentaire : Une variation de MicroCosmos 28. Le bon vieux thÃ¨me de l'escalier revisitÃ©.
 
 Solution/Pushes (Built-in)
 RlddrUrrurUruulDlDlDLrururrdLdLdLLuRuRlddldlluuRRdrrUrUruulDlDlDururrd
@@ -4976,9 +4976,9 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 20
 Sous titre : MicroCosmos 21 var.
-Difficulté : 9
-Date de création : 08/2002
-Commentaire : Une variation de MicroCosmos 21. Un design riche en difficulté, qui méritait d'y revenir.
+DifficultÃ© : 9
+Date de crÃ©ation : 08/2002
+Commentaire : Une variation de MicroCosmos 21. Un design riche en difficultÃ©, qui mÃ©ritait d'y revenir.
 
 Solution/Pushes (Built-in)
 lUrrdddlLUlluuRRDrrddlldlUrrruullDurruuullDDDrrrruuLrddlllluuurrDrrddl
@@ -5007,7 +5007,7 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 21
 Sous titre : MicroCosmos 25 var.
-Difficulté : 8.75
+DifficultÃ© : 8.75
 Auteur : Brian Damgaard (with YASGen) et Aymeric du Peloux
 Commentaire : Une variation de MicroCosmos 25 nettement plus difficile !
 
@@ -5040,7 +5040,7 @@ These levels are copyright (c) by Aymeric du Peloux and may be freely distribute
 Author's note:
 Cosmopoly 22
 Sous titre : PicoKosmos 20 var.
-Difficulté : 10
+DifficultÃ© : 10
 Auteur : Evgeny Grigoriev et Aymeric du Peloux
 Commentaire : Une variation de PicoKosmos 20 un peu plus hardue.
 

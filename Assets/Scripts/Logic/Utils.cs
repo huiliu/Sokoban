@@ -12,9 +12,11 @@ namespace Logic
             var mapFile = new List<List<string>>();
             var map = null as List<string>;
             var processing = false;
-            foreach (var line in lines)
+            foreach (var l in lines)
             {
-                if (line.StartsWith(":"))
+                var line = l.Trim();
+
+                if (line.Length == 0)
                 {
                     processing = false;
                     if (map != null)
@@ -25,7 +27,7 @@ namespace Logic
                     continue;
                 }
 
-                if (line.Length == 0)
+                if (line.StartsWith(":"))
                 {
                     processing = false;
                     if (map != null)
