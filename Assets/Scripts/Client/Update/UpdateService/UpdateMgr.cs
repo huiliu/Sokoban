@@ -50,6 +50,8 @@ using Version = System.Version;
     {
         if (!Directory.Exists(sAssetBundlePersistentPath))
             Directory.CreateDirectory(sAssetBundlePersistentPath);
+
+        this.UpdateStatus = UpdateStatus.Finished;
     }
 
         public IEnumerator TryUpdate()

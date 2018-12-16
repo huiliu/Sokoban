@@ -3,54 +3,62 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
-public class CreateAssetBundle
+namespace Sokoban.Editor
 {
-    const string kAssetBundlesExportDir = "Assets/AssetBundles";
-    static List<AssetBundleBuild> builds = new List<AssetBundleBuild>();
-
-    [MenuItem("Tool/Build AssetBundles")]
-    static void BuildAllAssetBundles()
+    public class CreateAssetBundle
     {
-        if (!Directory.Exists(kAssetBundlesExportDir))
+        const string kAssetBundlesExportDir = "Assets/AssetBundles";
+        static List<AssetBundleBuild> builds = new List<AssetBundleBuild>();
+
+        [MenuItem("Tool/Build AssetBundles")]
+        static void BuildAssetBundles()
         {
-            Directory.CreateDirectory(kAssetBundlesExportDir);
+            BuildAllAssetBundles(EditorUserBuildSettings.activeBuildTarget);
         }
 
-        builds.Clear();
-
-        TagResource("Assets/" + ResourcePath.kPrefabPath, "*.prefab");
-        TagResource("Assets/" + ResourcePath.kTexturePath, "*.png");
-        TagResource("Assets/" + ResourcePath.kTextAssetPath, "*.txt");
-        BuildPipeline.BuildAssetBundles(kAssetBundlesExportDir, builds.ToArray(), BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
-
-        if(EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS ||
-            EditorUserBuildSettings.activeBuildTarget == BuildTarget.Android)
+        public static void BuildAllAssetBundles(BuildTarget target = BuildTarget.NoTarget)
         {
-            var p = Path.Combine(Application.streamingAssetsPath, "AssetBundles");
-            Directory.Delete(p);
-            Directory.Move(kAssetBundlesExportDir, p);
-        }
-    }
+            if (!Directory.Exists(kAssetBundlesExportDir))
+            {
+                Directory.CreateDirectory(kAssetBundlesExportDir);
+            }
 
-    static void TagResource(string path, string suffix)
-    {
-        var dir = new DirectoryInfo(path);
-        foreach (var f in dir.GetFiles(suffix))
-        {
-            var fullpath = f.FullName;
-            var idx = fullpath.IndexOf("Assets");
-            var p = fullpath.Substring(idx);
+            builds.Clear();
 
-            var b = new AssetBundleBuild();
-            b.assetBundleName = p.Replace(Path.DirectorySeparatorChar, '_').Replace(".", "_");
-            b.assetBundleVariant = "ab";
-            b.assetNames = new string[1] { p };
-            builds.Add(b);
+            TagResource("Assets/" + ResourcePath.kPrefabPath, "*.prefab");
+            TagResource("Assets/" + ResourcePath.kTexturePath, "*.png");
+            TagResource("Assets/" + ResourcePath.kTextAssetPath, "*.txt");
+            BuildPipeline.BuildAssetBundles(kAssetBundlesExportDir, builds.ToArray(), BuildAssetBundleOptions.None, target);
+
+            if (target == BuildTarget.iOS ||
+                target == BuildTarget.Android)
+            {
+                var p = Path.Combine(Application.streamingAssetsPath, "AssetBundles");
+                Directory.Delete(p, true);
+                Directory.Move(kAssetBundlesExportDir, p);
+            }
         }
 
-        foreach(var d in dir.GetDirectories())
+        static void TagResource(string path, string suffix)
         {
-            TagResource(path + d.Name + "/", suffix);
+            var dir = new DirectoryInfo(path);
+            foreach (var f in dir.GetFiles(suffix))
+            {
+                var fullpath = f.FullName;
+                var idx = fullpath.IndexOf("Assets");
+                var p = fullpath.Substring(idx);
+
+                var b = new AssetBundleBuild();
+                b.assetBundleName = p.Replace(Path.DirectorySeparatorChar, '_').Replace(".", "_");
+                b.assetBundleVariant = "ab";
+                b.assetNames = new string[1] { p };
+                builds.Add(b);
+            }
+
+            foreach (var d in dir.GetDirectories())
+            {
+                TagResource(path + d.Name + "/", suffix);
+            }
         }
     }
 }
