@@ -21,11 +21,7 @@ public class EditorResourceMgr
     private readonly StringBuilder sbPath = new StringBuilder(256);
     private string GetResourceFullPath(string name, ResourceType type)
     {
-        this.sbPath.Clear();
-        this.sbPath.Append("Assets/");
-        var rpath = ResourcePath.GetResourceFullPath(name, type);
-        this.sbPath.Append(rpath);
-        return this.sbPath.ToString();
+        return ResourcePath.GetResourceFullPath(name, type);
     }
 
     private Dictionary<string, Object> LoadedResource;

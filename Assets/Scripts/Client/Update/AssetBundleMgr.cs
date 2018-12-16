@@ -86,16 +86,14 @@ using UnityEngine;
             return this.sbPath.ToString();
         }
 
-        private readonly StringBuilder sbPath = new StringBuilder(256);
-        private string GetResourceFullPath(string name, ResourceType type)
-        {
-            var rname = ResourcePath.GetResourceFullPath(name, ResourceType.Prefab)
-                            .Replace("/", "_")
-                            .Replace(".", "_")
-                            .ToLower() + ".ab";
+    private readonly StringBuilder sbPath = new StringBuilder(256);
+    private string GetResourceFullPath(ref string name, ResourceType type)
+    {
+        name = ResourcePath.GetResourceFullPath(name, type);
+        var rname = name.Replace("/", "_").Replace(".", "_").ToLower() + ".ab";
 
-            return this.GetPathByUpdate(rname);
-        }
+        return this.GetPathByUpdate(rname);
+    }
 
         public void LoadPrefab(string name, Action<GameObject> cb)
         {
@@ -107,7 +105,7 @@ using UnityEngine;
                     break;
                 }
 
-                var path = this.GetResourceFullPath(name, ResourceType.Prefab);
+                var path = this.GetResourceFullPath(ref name, ResourceType.Prefab);
                 var assetbundle = AssetBundle.LoadFromFile(path);
                 if (assetbundle != null)
                 {
@@ -165,7 +163,7 @@ using UnityEngine;
                 break;
             }
 
-            var path = this.GetResourceFullPath(name, ResourceType.TextAsset);
+            var path = this.GetResourceFullPath(ref name, ResourceType.TextAsset);
             var assetbundle = AssetBundle.LoadFromFile(path);
             if (assetbundle != null)
             {

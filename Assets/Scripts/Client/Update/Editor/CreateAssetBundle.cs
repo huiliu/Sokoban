@@ -26,7 +26,9 @@ public class CreateAssetBundle
         if(EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS ||
             EditorUserBuildSettings.activeBuildTarget == BuildTarget.Android)
         {
-            Directory.Move(kAssetBundlesExportDir, Path.Combine(Application.streamingAssetsPath, kAssetBundlesExportDir));
+            var p = Path.Combine(Application.streamingAssetsPath, "AssetBundles");
+            Directory.Delete(p);
+            Directory.Move(kAssetBundlesExportDir, p);
         }
     }
 

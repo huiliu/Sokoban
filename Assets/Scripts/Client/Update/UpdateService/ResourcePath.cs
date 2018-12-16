@@ -25,6 +25,7 @@ public static class ResourcePath
     public static string GetResourceFullPath(string name, ResourceType type)
     {
         sb.Clear();
+        sb.Append("Assets/");
 
         switch(type)
         {
