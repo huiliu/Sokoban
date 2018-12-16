@@ -20,7 +20,14 @@ public class CreateAssetBundle
 
         TagResource("Assets/" + ResourcePath.kPrefabPath, "*.prefab");
         TagResource("Assets/" + ResourcePath.kTexturePath, "*.png");
+        TagResource("Assets/" + ResourcePath.kTextAssetPath, "*.txt");
         BuildPipeline.BuildAssetBundles(kAssetBundlesExportDir, builds.ToArray(), BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+
+        if(EditorUserBuildSettings.activeBuildTarget == BuildTarget.iOS ||
+            EditorUserBuildSettings.activeBuildTarget == BuildTarget.Android)
+        {
+            Directory.Move(kAssetBundlesExportDir, Path.Combine(Application.streamingAssetsPath, kAssetBundlesExportDir));
+        }
     }
 
     static void TagResource(string path, string suffix)
